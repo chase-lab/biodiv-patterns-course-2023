@@ -1,4 +1,3 @@
-# biodiv-patterns-course-2023
 ## MLU Master’s Module: Modelling Species Distribution and Biodiversity Patterns
 
 Part II: Measuring and comparing biodiversity patterns and processes
