@@ -45,11 +45,17 @@ Find 5 papers that compared different treatments of some ecological factor (land
 You will need raw data that provide for each species the abundance in each plot (not aggregated over plots or treatments). Not all papers provide this. Look for papers published in the last 3-4 years. 
 
 1)	Find some papers that study species richness differences 
-2)	Download the underlying raw data 
-3)	Wrangle the data to put it in the right format 
-4)	Check the result of the original papers
-5)	Calculate the metrics you're interested in (alpha, beta, gamma, rarefied richness, PIE, Shannon etc)
-6)	Compare to the results of the authors. How often do you find differences? Which important patterns/ differences have the original authors missed (if any)?
+for example: 
+https://www.frontiersin.org/articles/10.3389/fevo.2022.1021677/full
+https://link.springer.com/article/10.1007/s13157-022-01643-6
+
+https://onlinelibrary.wiley.com/doi/10.1002/ece3.9532
+
+3)	Download the underlying raw data 
+4)	Wrangle the data to put it in the right format 
+5)	Check the result of the original papers
+6)	Calculate the metrics you're interested in (alpha, beta, gamma, rarefied richness, PIE, Shannon etc)
+7)	Compare to the results of the authors. How often do you find differences? Which important patterns/ differences have the original authors missed (if any)?
  
 
 2 paths: 
