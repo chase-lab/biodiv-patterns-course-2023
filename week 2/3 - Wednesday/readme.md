@@ -48,6 +48,9 @@ You will need raw data that provide for each species the abundance in each plot 
 for example: 
 https://www.frontiersin.org/articles/10.3389/fevo.2022.1021677/full
 https://link.springer.com/article/10.1007/s13157-022-01643-6
+https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13332
+https://www.mdpi.com/2071-1050/14/7/4002
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14315
 
 https://onlinelibrary.wiley.com/doi/10.1002/ece3.9532
 
