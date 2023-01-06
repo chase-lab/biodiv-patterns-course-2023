@@ -36,11 +36,11 @@ And here are a few sites that can help with winter ID (look at the buds and bark
 (see powerpoint in folder).
 
 
-## Part 4. 14.30-15.00  Questions and Discussion of Myers et al. Paper
+## Part 5. 14.30-15.00  Questions and Discussion of Myers et al. Paper
 
 (see pdf in folder)
 
-## Part 5. 15.00-16.00  Lecture (Metacommunities and mechanisms of biodiversity)
+## Part 6. 15.00-16.00  Lecture (Metacommunities and mechanisms of biodiversity)
 
 
 
