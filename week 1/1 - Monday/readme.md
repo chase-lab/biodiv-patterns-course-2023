@@ -2,7 +2,7 @@
 
 The primary objective of todays work will be to introduce students to metacommunities. A metacommunity is just an expansion of a community (a local patch) in time and space. Coexistence in metacommunities is influenced both by local processes (e.g., competition, predation) and by regional processes (dispersal, habitat heterogeneity). Although somewhat abstract, the metacommunity concept forms the basis for thinking about the maintenance of biodiversity across space and time. 
 
-## Part 1. Sampling tree metacommunities in Halle Forests. (You can do this over the weekend, or anytime before 12.00 on Monday, January 10.)
+## Part 1. Sampling tree metacommunities in Halle Forests. (You can do this over the weekend, or anytime before 12.00 on Monday, January 9)
 
 Objective: Observe tree species diversity (numbers of species, relative abundances) and tree species composition (names and types of trees) in multiple forests within the Halle (Saale) region. Use these observations as a basis for thinking about what influence the numbers and types of species in a given area, and how they change across space and time
 
@@ -19,22 +19,23 @@ And here are a few sites that can help with winter ID (look at the buds and bark
 - https://www.pflanzen-vielfalt.net/bestimmen-sammeln/baumbestimmungshilfe/knospenbestimmung/
 - https://www.baumkunde.de/baumbestimmung/laubhoelzer/bestimmung-knospen.php
 
-## Part 2. 12.00-13.00.  Discussion in Seminar room (Große Steinstrasse 79/80, 2nd floor, Interim of Institute for Geobotany)
+## Part 2. 12.00-13.30.  Discussion in Seminar room (Große Steinstrasse 79/80, 2nd floor, Interim of Institute for Geobotany)
 
-Discussion about observations and data from forest sampling
+-Introduction and overview of the second part of this module
+-Discussion about observations and data from forest sampling
 
 
 
-## Part 3. 13.00-14.00. Lecture
+## Part 3. 13.30-14.30. Lecture
 
 (see powerpoint in folder).
 
 
-## Part 4. 14.00-15.00  Read papers for discussion
+## Part 4. 14.30-15.15  Read papers for discussion
 
 (see pdfs in folder)
 
-## Part 3. 15.00-16.00  Discussion
+## Part 3. 15.15-16.00  Discussion
 
 
 
