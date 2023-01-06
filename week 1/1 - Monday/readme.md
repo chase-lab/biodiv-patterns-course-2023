@@ -22,6 +22,7 @@ And here are a few sites that can help with winter ID (look at the buds and bark
 ## Part 2. 12.00-13.30.  Discussion in Seminar room (Große Steinstrasse 79/80, 2nd floor, Interim of Institute for Geobotany)
 
 -Introduction and overview of the second part of this module
+
 -Discussion about observations and data from forest sampling
 
 
