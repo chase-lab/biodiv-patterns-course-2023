@@ -15,7 +15,7 @@ Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Shane Blowes (shane.blowes@idiv.d
 ##### Monday: Lecture, Reading, Discussion, Exercise (Jon)
 ##### Tuesday: Introduction to modelling, population and metapopulation dynamics using simulations and computer 
 exercises (Shane)
-##### Wednesday: Introduction to metacommunity dynamics, reading, preparation for independent projects 
+##### Wednesday: Metacommunity theory, preparation for independent projects 
 (Shane/Wubing) 
 ##### Thursday: Independent project (Shane/Wubing)
 ##### Friday: Independent project (Morning): Presentation/discussion (Afternoon)
