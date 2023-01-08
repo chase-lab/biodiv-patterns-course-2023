@@ -6,9 +6,9 @@
 
   - Lecture to introduce geometric population growth
   
-  - Computer exercises on geometric population growth and extension to introduce stochasticity
+  - Computer tutorial: geometric population growth, and an introduction to stochasticity
   
 ## Part III: Process-based models II (1300 ~ 1500)
 
-  - Lecture and computer exercises based on Thompson et al. 2020 Ecol Lett metacommunity model
+  - Lecture and tutorial: Metapopulation theory, dispersal and environmental variation
   
