@@ -31,7 +31,7 @@ exercises (Shane)
 ### Week 3: (January 23-27): Functional Diversity and Biodiversity and Ecosystem Functioning (BEF)
 
 ##### Monday: Lecture, Reading, Discussion, Exercise (Jon)
-##### Tuesday: Measures of Functional Diversity (Hill Numbers) (Paola)
+##### Tuesday: Measures of Functional Diversity (Hill Numbers) (Paola, Emma)
 ##### Wednesday: Biodiversity, Metacommunity Assembly, and Ecosystem Functions (biomass, stability) (Daniela, Emma)
 ##### Thursday: Independent project/analysis: simulations, analyses of empirical and/or simulated data (Paola, Daniela, Emma)
 ##### Friday: Independent project/analysis (Morning): Presentation/discussion (Afternoon)

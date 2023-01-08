@@ -4,11 +4,10 @@
 Instructors: Dr. Daniela Hoss (danielahoss@gmail.com); Dr. Emma Ladouceur (emma.ladouceur@idiv.de)
 
 
-
 ## Morning: Introduction to Ecosystem Functioning 10:00- 11:00
   
   - Lecture and discussion on Ecosystem Functioning 
- - Download [Slides](https://portal.idiv.de/nextcloud/index.php/s/NPYnorgbqwAAeQ4)
+  - Link will be provided to download slides
  
 ## Morning : Form discussion and debate groups 11:00-11:30
 Before class please read two papers- and make some notes;
@@ -20,15 +19,16 @@ Before class please read two papers- and make some notes;
 - Discuss and organise main points for afternoon debate
 - Each member of the team should be prepared to make some points in the debate
 - An instructor will also join each group
-- Debate Jam board [Team Wardle](https://jamboard.google.com/d/1psDyw_SY2w_LIFFGaNCwkM7z7L1GY2g264fR_2Vq-O4/edit?usp=sharing) and [Team Eisenhauer](https://jamboard.google.com/d/1ih2Fc8Jd-Ql3mYYlL7ncuqYhfCxso9DygJStNwChoXY/edit?usp=sharing)
+- Debate Jam board [Team Wardle](https://jamboard.google.com/d/1P3S543zZFAQVTkKGHJmiArjID7aXUIRQ60eOX48KR5Q/edit?usp=sharing) and [Team Eisenhauer](https://jamboard.google.com/d/1hxQuSqPfyJffyfpGlv8mm2sB_w3IPxmpqZI4_AzCoBU/edit?usp=sharing)
 
 ## Morning: Introduction to Ecosystem Functioning Experiments 11:30-12:00
 
 - Lecture and discussion on the ways people study measures of ecosystem function
+- Link will be provided to download slides
 
 ## Afternoon: Debate 13:00-14:00
-- Prepare for debate
-- Engage in a half hour debate defending and reasoning each perspective 
+ - Prepare for debate
+ - Engage in a half hour debate defending and reasoning each perspective 
 
 ## Afternoon: Activity 14:00-15:00
 
@@ -36,4 +36,4 @@ Before class please read two papers- and make some notes;
   
 ## Afternoon: Projects 15-16:00
  - Instructors will present three options for student projects at the end of the day
-- Question and discussion period
+ - Question and discussion period
