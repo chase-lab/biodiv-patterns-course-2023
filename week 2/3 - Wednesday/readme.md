@@ -46,13 +46,23 @@ You will need raw data that provide for each species the abundance in each plot 
 
 1)	Find some papers that study species richness differences 
 for example: 
-https://www.frontiersin.org/articles/10.3389/fevo.2022.1021677/full
-https://link.springer.com/article/10.1007/s13157-022-01643-6
-https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13332
-https://www.mdpi.com/2071-1050/14/7/4002
-https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14315
 
-https://onlinelibrary.wiley.com/doi/10.1002/ece3.9532
+- https://www.frontiersin.org/articles/10.3389/fevo.2022.1021677/full
+- https://link.springer.com/article/10.1007/s13157-022-01643-6
+- https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13332
+- https://www.mdpi.com/2071-1050/14/7/4002
+- https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14315
+- https://onlinelibrary.wiley.com/doi/10.1002/ece3.9532
+- Aguiar, W.M.D. and Gaglianone, M.C., 2012. Euglossine bee communities in small forest fragments of the Atlantic Forest, Rio de Janeiro state, southeastern Brazil (Hymenoptera, Apidae). Revista Brasileira de Entomologia, 56(2), pp.210-219.
+- Almeida-Gomes, M. and Rocha, C.F.D., 2014. Diversity and distribution of lizards in fragmented Atlantic Forest landscape in Southeastern Brazil. Journal of Herpetology, 48(3), pp.423-429.
+- Cabrera-Guzman, E. & Reynoso, V.H., 2012. Amphibian and reptile communities of rainforest fragments: Minimum patch size to support high richness and abundance. Biodiversity and Conservation, 21(12), pp.3243-3265.
+- Filgueiras, B.K.C., Iannuzzi, L. & Leal, I.R., 2011. Habitat fragmentation alters the structure of dung beetle communities in the Atlantic Forest. Biological Conservation, 144(1), pp.362-369.
+- Lion, M.B., Garda, A.A. & Fonseca, C.R., 2014. Split distance: A key landscape metric shaping amphibian populations and communities in forest fragments. Diversity and Distributions, 20(11), pp.1245-1257.
+- Lion, M.B., Garda, A.A., Santana, D.J. and Fonseca, C.R., 2016. The conservation value of small fragments for Atlantic forest reptiles. Biotropica, 48(2), pp.265-275.
+- https://doi.org/10.1590/S1676-06032006000200009
+- https://doi.org/10.1007/s10531-007-9189-z
+- https://www.scielo.br/j/bn/a/c4TBHHcGYzgntPPSkmQDB4M/?format=pdf
+
 
 3)	Download the underlying raw data 
 4)	Wrangle the data to put it in the right format 
