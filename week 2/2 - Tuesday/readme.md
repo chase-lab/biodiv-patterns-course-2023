@@ -1,5 +1,7 @@
-## Morning session (10:00h - 12:00h)
+## Morning session (10:10h - 12:00h)
+#Teacher: Roel van Klink
 
+Contents 
 - How can we describe biodiversity numerically?  
 - Accumulation curves and the Species Abundance Distribution
 - R packages for calculating biodiversity metrics
