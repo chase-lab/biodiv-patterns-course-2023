@@ -29,7 +29,8 @@ maxt<-1000	# time period for each simulation
 numsim<-100	# number of simulations
 
 ##	array to store subpopulations
-nmat<-array(dim=c(length(d),maxt,patches,numsim),dimnames=list(NULL,NULL,as.character(subpops),NULL))
+nmat<-array(dim=c(length(d),maxt,patches,numsim),
+            dimnames=list(NULL,NULL,as.character(subpops),NULL))
 
 ##	initial subpop sizes
 init.subpops<-rep(500,patches)
