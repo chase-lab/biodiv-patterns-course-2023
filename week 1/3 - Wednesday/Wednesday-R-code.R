@@ -1,13 +1,8 @@
-library(sp)
 library(tidyverse)
 library(cowplot)
-
-# with the function from the Thompson model
-install.packages('~/Downloads/RandomFields_3.3.14.tar.gz', repos = NULL)
-
-devtools::install_github("plthompson/mcomsimr")
-
 library(mcomsimr)
+
+
 
 S = 10 # number of species
 env_traits(species = S,
@@ -122,5 +117,140 @@ ggplot() +
                 group = interaction(species, patch))) +
   scale_colour_viridis_c()
 
+# calculate multiplicative diversity partition (species richness only for now) 
+# patch scale (alpha or local diversity)
+equalC_alpha_S <- sim_equalC_dat %>% 
+  # first remove species with zero abundance
+  filter(N > 0) %>% 
+  group_by(patch, time) %>% 
+  summarise(S = n_distinct(species)) %>% 
+  ungroup()
+
+# all patches combined (gamma or regional diversity)
+equalC_gamma_S <- sim_equalC_dat %>% 
+  # first remove species with zero abundance
+  filter(N > 0) %>% 
+  # need to accumulate species across patches
+  group_by(patch, time, species) %>% 
+  summarise(total_N = sum(N)) %>% 
+  group_by(time) %>% 
+  summarise(S = n_distinct(species)) %>% 
+  ungroup()
+
+# beta diversity (==gamma/mean(alpha))
+# first calculate mean alpha diversity at each time step
+equalC_mean_alpha <- equalC_alpha_S %>% 
+  group_by(time) %>% 
+  summarise(alpha_bar = mean(S)) 
+# combine gamma and mean alpha, and calculate beta-diversity
+equalC_beta_S <- left_join(equalC_gamma_S %>% 
+                             rename(gamma_S = S),
+                           equalC_mean_alpha) %>% 
+  mutate(beta_S = gamma_S / alpha_bar)
+
+# total abundance at the patch scale (all species combined, 
+# e.g., as proxy for ecosytem function or productivity)
+equalC_alpha_N <- sim_equalC_dat %>% 
+  group_by(patch, time) %>% 
+  summarise(alpha_N = sum(N)) %>% 
+  ungroup()
+
+# repeat for stabilising competition
+stabilC_alpha_S <- sim_stabilC_dat %>% 
+  # first remove species with zero abundance
+  filter(N > 0) %>% 
+  group_by(patch, time) %>% 
+  summarise(S = n_distinct(species)) %>% 
+  ungroup()
+
+# all patches combined (gamma or regional diversity)
+stabilC_gamma_S <- sim_stabilC_dat %>% 
+  # first remove species with zero abundance
+  filter(N > 0) %>% 
+  # need to accumulate species across patches
+  group_by(patch, time, species) %>% 
+  summarise(total_N = sum(N)) %>% 
+  group_by(time) %>% 
+  summarise(S = n_distinct(species)) %>% 
+  ungroup()
+
+# beta diversity (==gamma/mean(alpha))
+# first calculate mean alpha diversity at each time step
+stabilC_mean_alpha <- stabilC_alpha_S %>% 
+  group_by(time) %>% 
+  summarise(alpha_bar = mean(S)) 
+# combine gamma and mean alpha, and calculate beta-diversity
+stabilC_beta_S <- left_join(stabilC_gamma_S %>% 
+                             rename(gamma_S = S),
+                           stabilC_mean_alpha) %>% 
+  mutate(beta_S = gamma_S / alpha_bar)
+
+# total abundance at the patch scale (all species combined, 
+# e.g., as proxy for ecosytem function or productivity)
+stabilC_alpha_N <- sim_stabilC_dat %>% 
+  group_by(patch, time) %>% 
+  summarise(alpha_N = sum(N)) %>% 
+  ungroup()
+
+
+
+# combine and plot
+# local richness
+alpha_S <- bind_rows(equalC_alpha_S %>% 
+                       mutate(competition = 'equal'),
+                     stabilC_alpha_S %>% 
+                       mutate(competition = 'stabilising'))
+
+ggplot() +
+  facet_wrap(~patch) + 
+  geom_point(data = alpha_S,
+            aes(x = time, y = S, colour = competition)) +
+  stat_smooth(data = alpha_S,
+              aes(x = time, y = S, colour = competition),
+              method = 'lm', se = F)
+
+# regional richness
+gamma_S <- bind_rows(equalC_gamma_S %>% 
+                       mutate(competition = 'equal'),
+                     stabilC_gamma_S %>% 
+                       mutate(competition = 'stabilising'))
+
+ggplot() +
+  geom_point(data = gamma_S,
+             aes(x = time, y = S, colour = competition)) +
+  stat_smooth(data = gamma_S,
+              aes(x = time, y = S, colour = competition))
+
+# spatial beta-diversity
+beta_S <- bind_rows(equalC_beta_S %>% 
+                     mutate(competition = 'equal'),
+                   stabilC_beta_S %>% 
+                     mutate(competition = 'stabilising'))
+
+ggplot() +
+  geom_point(data = beta_S,
+             aes(x = time, y = beta_S, colour = competition)) +
+  stat_smooth(data = beta_S,
+              aes(x = time, y = beta_S, colour = competition))
+
+# local total abundance (e.g., ecosystem function)
+alpha_N <- bind_rows(equalC_alpha_N %>% 
+                      mutate(competition = 'equal'),
+                    stabilC_alpha_N %>% 
+                      mutate(competition = 'stabilising'))
+
+ggplot() +
+  geom_point(data = alpha_N,
+             aes(x = time, y = alpha_N, colour = competition)) +
+  stat_smooth(data = alpha_N,
+              aes(x = time, y = alpha_N, colour = competition))
+
+# BEF
+left_join(alpha_S, 
+          alpha_N) %>% 
+  ggplot() +
+  facet_wrap(~patch) +
+  geom_point(aes(x = S, y = alpha_N, colour = competition)) +
+  stat_smooth(aes(x = S, y = alpha_N))
 # Exercises:
 # Simulate dynamics according to the classic metacommunity paradigms (Fig 2 in paper) and plot

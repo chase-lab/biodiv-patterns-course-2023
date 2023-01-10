@@ -16,7 +16,8 @@ N0 = 100
 b = 1.2
 # per-capita mortality (e.g., annual plant)
 d = 1
-# initialise vector to store population size each year, and assign initial population size as first value
+# initialise vector to store population size each year, 
+# and assign initial population size as first value
 N <- NULL
 N[1] <- N0
 
@@ -105,7 +106,7 @@ plot(x = 1:length(N),
 
 # We assume N[t+1] ~ Pois(lambda = N[t] + (b-d)*N[t]),
 # N[t+1], the population size next year, is a random draw from a
-# Poisson distribution with lambda (i.e., the one and only parameter of the Poisson distribution)
+# Poisson distribution with mean or lambda (i.e., the one and only parameter of the Poisson distribution)
 # equal to the expected population size under our model of geometric growth.
 
 # visual inspection of poisson distribution
@@ -126,6 +127,8 @@ plot(density(rpois(n = 1000,
 lines(density(rpois(n = 1000,
                    lambda = 100)))
 
+# set seed for reproducibility
+set.seed(123)
 # define per-capita birth rate
 b = 1.2
 # and per-capita mortality
@@ -181,7 +184,7 @@ lines(1:length(N_growing), N_growing, lwd = 3)
 
 # sigma[t] is a time series of environmental variation (e.g., temperature), and follows
 # sigma[t+1] = a*sigma[t] + c*phi[t],
-# where c scales the magnitude of the environmental variation phi[t] ~ N(0,1).
+# where c scales the magnitude of the environmental variation phi[t] ~ N(mean = 0, sd = 1).
 
 # set c = (1 - a^2)^0.5, which means var(sigma) is equal for all values of a.
 # a controls autocorrelation:
@@ -242,7 +245,22 @@ plot(1:(nyears+1), uncorrelated_sigma,
               max(c(uncorrelated_sigma, pos_corr_sigma, neg_corr_sigma)) + 0.1))
 lines(1:(nyears+1), pos_corr_sigma, col = 2, lty = 2)
 lines(1:(nyears+1), neg_corr_sigma, col = 3, lty = 3)
-abline(c(0,0), lty = 2)
+abline(c(0,0), lty = 2)   
+
+# simulate geometric growth with environmental stochasticity
+N_uncorrelated <- NULL
+N_uncorrelated[1] <- N0
+
+# first uncorrelated
+for(t in 1:nyears){
+  N_uncorrelated[t+1] = N_uncorrelated[t] + (b - d)*N_uncorrelated[t] +
+    N_uncorrelated[t] * N_uncorrelated[t]
+}
+
+plot(x = 1:length(N_uncorrelated),
+     y = N_uncorrelated, type = 'l',
+     xlab = 'Time [years]',
+     ylab = 'Population size or density')
 
 
 # Exercises:
