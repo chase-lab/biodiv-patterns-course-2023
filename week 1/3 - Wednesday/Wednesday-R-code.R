@@ -245,13 +245,12 @@ ggplot() +
   stat_smooth(data = alpha_N,
               aes(x = time, y = alpha_N, colour = competition))
 
-
+# BEF
 left_join(alpha_S, 
           alpha_N) %>% 
   ggplot() +
   facet_wrap(~patch) +
   geom_point(aes(x = S, y = alpha_N, colour = competition)) +
-  stat_smooth(aes(x = S, y = alpha_N),
-              method = 'lm')
+  stat_smooth(aes(x = S, y = alpha_N))
 # Exercises:
 # Simulate dynamics according to the classic metacommunity paradigms (Fig 2 in paper) and plot
