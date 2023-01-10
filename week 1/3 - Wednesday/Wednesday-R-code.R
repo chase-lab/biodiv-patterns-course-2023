@@ -148,6 +148,13 @@ equalC_beta_S <- left_join(equalC_gamma_S %>%
                            equalC_mean_alpha) %>% 
   mutate(beta_S = gamma_S / alpha_bar)
 
+# total abundance at the patch scale (all species combined, 
+# e.g., as proxy for ecosytem function or productivity)
+equalC_alpha_N <- sim_equalC_dat %>% 
+  group_by(patch, time) %>% 
+  summarise(alpha_N = sum(N)) %>% 
+  ungroup()
+
 # repeat for stabilising competition
 stabilC_alpha_S <- sim_stabilC_dat %>% 
   # first remove species with zero abundance
@@ -178,7 +185,17 @@ stabilC_beta_S <- left_join(stabilC_gamma_S %>%
                            stabilC_mean_alpha) %>% 
   mutate(beta_S = gamma_S / alpha_bar)
 
+# total abundance at the patch scale (all species combined, 
+# e.g., as proxy for ecosytem function or productivity)
+stabilC_alpha_N <- sim_stabilC_dat %>% 
+  group_by(patch, time) %>% 
+  summarise(alpha_N = sum(N)) %>% 
+  ungroup()
+
+
+
 # combine and plot
+# local richness
 alpha_S <- bind_rows(equalC_alpha_S %>% 
                        mutate(competition = 'equal'),
                      stabilC_alpha_S %>% 
@@ -192,6 +209,7 @@ ggplot() +
               aes(x = time, y = S, colour = competition),
               method = 'lm', se = F)
 
+# regional richness
 gamma_S <- bind_rows(equalC_gamma_S %>% 
                        mutate(competition = 'equal'),
                      stabilC_gamma_S %>% 
@@ -203,6 +221,7 @@ ggplot() +
   stat_smooth(data = gamma_S,
               aes(x = time, y = S, colour = competition))
 
+# spatial beta-diversity
 beta_S <- bind_rows(equalC_beta_S %>% 
                      mutate(competition = 'equal'),
                    stabilC_beta_S %>% 
@@ -214,5 +233,25 @@ ggplot() +
   stat_smooth(data = beta_S,
               aes(x = time, y = beta_S, colour = competition))
 
+# local total abundance (e.g., ecosystem function)
+alpha_N <- bind_rows(equalC_alpha_N %>% 
+                      mutate(competition = 'equal'),
+                    stabilC_alpha_N %>% 
+                      mutate(competition = 'stabilising'))
+
+ggplot() +
+  geom_point(data = alpha_N,
+             aes(x = time, y = alpha_N, colour = competition)) +
+  stat_smooth(data = alpha_N,
+              aes(x = time, y = alpha_N, colour = competition))
+
+
+left_join(alpha_S, 
+          alpha_N) %>% 
+  ggplot() +
+  facet_wrap(~patch) +
+  geom_point(aes(x = S, y = alpha_N, colour = competition)) +
+  stat_smooth(aes(x = S, y = alpha_N),
+              method = 'lm')
 # Exercises:
 # Simulate dynamics according to the classic metacommunity paradigms (Fig 2 in paper) and plot
