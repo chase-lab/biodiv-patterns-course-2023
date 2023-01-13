@@ -2,13 +2,14 @@ library(tidyverse)
 library(cowplot)
 library(mcomsimr)
 
+devtools::install_github("plthompson/mcomsimr")
 
 
 S = 10 # number of species
 env_traits(species = S,
            max_r = 5,                         # max growth rate
-           min_env = 0, max_env = 1,          # range of environment
-           env_niche_breadth = 0.05,       # niche breadth
+           min_env = 0, max_env = 1,          # min and max of species environmental optima
+           env_niche_breadth = runif(n = S, min = 0.01, max = 0.1),       # niche breadth
            optima_spacing = 'even')           # spacing of z_i (optima)
 
 
@@ -19,7 +20,7 @@ P = 20
 S = 20
 
 # set up landscape for experiment (want the same landscape for both treatments)
-meta_landscape <- landscape_generate(patches = P)
+meta_landscape <- landscape_generate(patches = P, plot = FALSE)
 
 # dispersal matrix
 # set rate of distance decay
@@ -27,24 +28,30 @@ d = 0.1
 disp_mat <- dispersal_matrix(landscape = meta_landscape,
                              torus = TRUE,
                              kernel_exp = d,
-                             plot = TRUE)
+                             plot = FALSE)
 
-# generate the time series of the environmental conditions for each patch (same for each treatment)
-# Project idea: How does temporal environmental autocorrelation impact population, community or metacommunity dynamics / patterns?
+# generate the time series of the environmental conditions for 
+# each patch (same for each treatment)
+# Project idea: How does temporal environmental autocorrelation 
+# impact population, community or metacommunity dynamics / patterns?
 env_conditions <- env_generate(landscape = meta_landscape,
-                               env1Scale = 1, # temporal autocorrelation in the environment (here the environment is temporally uncorrelated)
+                               env1Scale = 1, # temporal autocorrelation 
+                                              # in the environment 
+                                              # (a value of 1 means the environment is 
+                                              # temporally uncorrelated)
                                timesteps = 1000)
 
 # density independent component of model
 densInd_niche <- env_traits(species = S,
                             max_r = 5,                         # max growth rate
-                            min_env = 0, max_env = 1,          # range of environment
+                            min_env = 0, max_env = 1,          # min and max of species niche optima
                             env_niche_breadth = 0.2,       # niche breadth
                             optima_spacing = 'even')           # spacing of z_i (optima)
 
 # species interaction matrix:
 # Project idea: examine the impact of alternate competition scenarios
-# e.g., create  matrices for other dynamics in the paper (mixed, competitive dominance, destabilising competition)
+# e.g., create  matrices for other dynamics in the paper 
+# (mixed, competitive dominance, destabilising competition)
 equal_interaction_mat <- species_int_mat(species = S,
                                          intra = 1,
                                          min_inter = 1,
@@ -80,10 +87,11 @@ sim_stabil_comp <- simulate_MC(patches=P, species=S,
                                initialization=100, burn_in=300, timesteps=600)
 
 str(sim_equal_comp)
+str(sim_equal_comp)
 
 # extract data
 sim_equalC_dat <- sim_equal_comp$dynamics.df %>%
-  as_tibble() %>%
+  as_tibble() %>%   
   # reduce to last 100 time steps
   filter(time > 499 & time < 601)
 
@@ -102,18 +110,25 @@ ggplot() +
                 group = patch)) +
   scale_colour_viridis_c()
 
+# what is the average environmental condition in each patch
+sim_equalC_dat %>% 
+  group_by(patch) %>% 
+  summarise(mean_env = mean(env)) %>% 
+  ggplot() +
+  geom_point(aes(x = patch, y = mean_env))
+
 # patch level population dynamics: equal comp
 ggplot() +
   facet_wrap(~patch) +
   geom_line(data = sim_equalC_dat,
-            aes(x = time, y = N, colour = optima,
+            aes(x = time, y = N, colour = species,
                 group = interaction(species, patch))) +
   scale_colour_viridis_c()
 
 ggplot() +
   facet_wrap(~patch) +
   geom_line(data = sim_stabilC_dat,
-            aes(x = time, y = N, colour = optima,
+            aes(x = time, y = N, colour = species,
                 group = interaction(species, patch))) +
   scale_colour_viridis_c()
 
@@ -131,7 +146,7 @@ equalC_gamma_S <- sim_equalC_dat %>%
   # first remove species with zero abundance
   filter(N > 0) %>% 
   # need to accumulate species across patches
-  group_by(patch, time, species) %>% 
+  group_by(time, species) %>% 
   summarise(total_N = sum(N)) %>% 
   group_by(time) %>% 
   summarise(S = n_distinct(species)) %>% 
@@ -245,7 +260,7 @@ ggplot() +
   stat_smooth(data = alpha_N,
               aes(x = time, y = alpha_N, colour = competition))
 
-# BEF
+# BEF (biodiversity ecosystem functioning)
 left_join(alpha_S, 
           alpha_N) %>% 
   ggplot() +
