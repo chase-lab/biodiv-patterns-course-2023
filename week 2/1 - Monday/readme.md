@@ -21,7 +21,7 @@ II. Lab Excercise
 6. Calculate species richness for the entire region (sum of all 4 metacommunities)
 7. Draw species accumulatiomn curve at 3 different spatial scales (1 local sample-->3 samples in a metacommunity-->entire region [all 4 metacommunities]) 
 8. Explore other summmary variables (i.e., relative abundances, evenness, diversity) at each spatial scale
-9. Experimentally impose 'predation' of 50% of individuals by an introduced predator (e.g., raccoons invading Europe). IMPORTANT: Experimental predation must be **random** (even if what you personally predate is not random)
-10. Repeat Step #3 and #4, #5 but with 'impact' data (after predation)
-11. Compare species accumulation curves (from step #5) across scales
-12. Calculate log ratio effect sizes of species richness loss for each scale
+9. Experimentally impose 'predation' of 50% of individuals by an introduced predator (e.g., raccoons invading Europe). IMPORTANT: Experimental predation must be **random** 
+10. Repeat Step #3-7 but with 'impact' data (after predation)
+11. Compare species accumulation curves (from step #7) across scales
+12. Calculate log ratio effect sizes of species richness loss for each scale (local, metacommunity, region)
