@@ -15,11 +15,13 @@ II. Lab Excercise
 
 1. Each student will sample ALL organisms from each of 3 local sites (bags) in a metacommunity (samples will be given at the start of the excercise). Names of species given in ppt.
 2. Open up the Google Spreadsheet--https://docs.google.com/spreadsheets/d/1SGtdU61_3vX43Xtjaq579nEF1xuelRY3Dol2WGKFzUk/edit?usp=sharing
-3. Enter data for each 'control' sample in your individual worksheet; enter data for each person in summary 'species richness' sheet for both 'local' and 'metacommunity' richness
-4. As a group, calculate 'total' richness of the region (all 4 metacommunities)
-5. Draw species accumulatiomn curve at 3 different spatial scales (1 local sample-->3 samples in a metacommunity-->entire region [all 4 metacommunities]) 
-6. Explore other summmary variables (i.e., relative abundances, evenness, diversity)
-7. Experimentally impose 'predation' of 50% of individuals by an introduced predator (e.g., raccoons invading Europe). IMPORTANT: Experimental predation must be **random** (even if what you personally predate is not random)
-8. Repeat Step #3 and #4, #5 but with 'impact' data (after predation)
-9. Compare species accumulation curves (from step #5) across scales
-10. Calculate log ratio effect sizes of species richness loss for each scale
+3. Enter data for each 'control' sample in the appropriate place
+4. Calculate species richness for each local community (bag)
+5. Calculate species richness for each metacommunity (3 bags for each person)
+6. Calculate species richness for the entire region (sum of all 4 metacommunities)
+7. Draw species accumulatiomn curve at 3 different spatial scales (1 local sample-->3 samples in a metacommunity-->entire region [all 4 metacommunities]) 
+8. Explore other summmary variables (i.e., relative abundances, evenness, diversity) at each spatial scale
+9. Experimentally impose 'predation' of 50% of individuals by an introduced predator (e.g., raccoons invading Europe). IMPORTANT: Experimental predation must be **random** (even if what you personally predate is not random)
+10. Repeat Step #3 and #4, #5 but with 'impact' data (after predation)
+11. Compare species accumulation curves (from step #5) across scales
+12. Calculate log ratio effect sizes of species richness loss for each scale
