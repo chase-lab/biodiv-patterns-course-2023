@@ -18,7 +18,7 @@ II. Lab Excercise
 3. Enter data for each 'control' sample in the appropriate place
 4. Calculate species richness for each local community (bag)
 5. Calculate species richness for each metacommunity (3 bags for each person)
-6. Calculate species richness for the entire region (sum of all 4 metacommunities)
+6. Calculate species richness for the entire region (sum of all 4 metacommunities [12 bags total])
 7. Draw species accumulatiomn curve at 3 different spatial scales (1 local sample-->3 samples in a metacommunity-->entire region [all 4 metacommunities]) 
 8. Explore other summmary variables (i.e., relative abundances, evenness, diversity) at each spatial scale
 9. Experimentally impose 'predation' of 50% of individuals by an introduced predator (e.g., raccoons invading Europe). IMPORTANT: Experimental predation must be **random** 
