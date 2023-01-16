@@ -1,5 +1,6 @@
 ## Morning session (10:10h - 12:00h)
 # Teacher: Roel van Klink
+roel.klink@idiv.de
 
 Contents 
 - How can we describe biodiversity numerically?  
@@ -8,7 +9,7 @@ Contents
 - Calculating compositional differences between samples
 
 
-## Afternoon session (13:00h -  max 16:30h)
+## Afternoon session (13:00h -  max 15:15h)
 
 Measuring and comparing biodiversity in the meta-community model(s) from week 1,
 including reshaping data to fit your needs  
