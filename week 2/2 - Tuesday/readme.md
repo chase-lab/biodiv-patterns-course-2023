@@ -1,6 +1,8 @@
-## Morning session (10:10h - 12:00h)
-# Teacher: Roel van Klink
+
+### Teacher: Roel van Klink
 roel.klink@idiv.de
+
+## Morning session (10:10h - 12:00h)
 
 Contents 
 - How can we describe biodiversity numerically?  
