@@ -1,14 +1,6 @@
 ## Morning session
 
-Class beginning time: 09:30  
-
-### Introduction (to an introduction) to GitHub
-Please, BEFORE THE CLASS:
- + Create an account on [github.com][https://www.github.com]
- + Install GitHub Desktop or install and setup git command line.  
-   - For Windows and MacOS: https://desktop.github.com/  
-   - For Linux: https://www.vitainbeta.org/2020/06/24/installing-github-desktop-linux/
-
+Class beginning time: 10:10
 
 ### MoBsim
 Please, BEFORE THE CLASS, run the following R code to install packages in preparation of our exercise with MoBsim:

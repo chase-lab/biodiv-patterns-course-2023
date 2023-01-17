@@ -1,15 +1,16 @@
-
+# Helpdesk: 10:00 - 11:00
 Log in here, at the times below to get help: 
-https://meet.jit.si/ChaseLabSocialDistancingLunchBreak 
+https://facetime.apple.com/join#v=1&p=BBRbtZZLEe27oAZNcpcL5Q&k=5jnP8aGazlCx0ez973uOUr9fPOUyyAria5AK_d5C0h4
 
-## 11:00h - 11:30h: Helpdesk group 1 
+- 10:00 Helpdesk group 1 
 
-## 11:30h - 12:00h: Helpdesk group 2
+- 10:30 Helpdesk group 2
 
-## 12:00 - 13:00 Project presentations:
+# Project presentations: 12:00 - 13:00
 
-Please do not present longer than 15 minutes. 
+Please do not present longer than 15 minutes.
+Zoom link provided by Jon
 
-12:00h Group 1
+- 12:00 Presentation group 1
 
-12:30h Group 2
+- 12:30 Presentation group 2
