@@ -9,11 +9,14 @@ https://facetime.apple.com/join#v=1&p=BBRbtZZLEe27oAZNcpcL5Q&k=5jnP8aGazlCx0ez97
 # Project presentations: 12:00 - 13:00
 
 Please do not present longer than 15 minutes.
-# Zoom link:
+
+Zoom link:
 https://us02web.zoom.us/j/87187072254?pwd=dytvc2FZVGc3aEZ1aURaUm82WXFJdz09
 
-# Meeting ID: 871 8707 2254
-# Passcode: 357360
+Meeting ID: 871 8707 2254
+
+Passcode: 357360
+
 
 - 12:00 Presentation group 1
 
