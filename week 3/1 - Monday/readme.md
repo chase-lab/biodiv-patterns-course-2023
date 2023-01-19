@@ -5,11 +5,11 @@ Instructor: Prof. Jonathan Chase (jonathan.chase@idiv.de)
 
 ## Introduction to Functional Diversity and Biodiversity and Ecosystem Functioning (BEF)
 
-## To Do BEFORE class starts at 12pm on Monday (over the weekend, or Monday morning)
+## To Do BEFORE class at 12pm on Monday (establish experiment Friday afternoon, make observations Monday morning)
 
-**Project. Water-bird diversity, ‘functional’ diversity, and their role in ecosystems**
+**Project. Bird diversity, ‘functional’ diversity, and their role in ecosystems**
 
-Question: How does water-bird diversity and functional diversity vary between sites?  How does this influence their role in the functioning of ecosystems?
+Question: How does bird diversity and functional diversity vary between sites?  How does this influence their role in the functioning of ecosystems?
 
 ***Diversity and Functional Diversity:***
 
@@ -24,15 +24,15 @@ Alternative Hypothesis 1: Diversity and/or functional diversity will not influen
 Alternative Hypothesis 2: Diversity and/or functional diversity will influence the functioning of ecosystems
 
 **Experimental steps:**
-1. Buy some bread (or use leftover bread from your house). I would suggest sliced ‘white’ bread, as it tends to float better, but any will do as long as it’s not too dense.  Make sure you have enough for use at two different observational sites (I would estimate ~2 loaves, one for each site. Plus a bit more to ‘seed’ the water to get the birds attracted to the area before you start collecting data). Break it up into small(ish) pieces that are large enough to float, but small enough so that most species can eat it.
+1. Use the 'seed balls' provided to you by the instructor.  Each of you has 6 seed balls with 'fruits' and 6 seed balls with 'insects'.  
 
-2. Choose (at least) two experimental sites that you strongly suspect have different levels of diversity of water birds (ducks, geese, swans, coots, etc). These can be ponds, fountains, rivers, lakes, etc. For example, a pond in the city might have fewer species of ducks than a pond in the park. For example, most urban ponds and streams will have mallard ducks and maybe one or two other species (e.g., coots). But the one in the park might also have more species of ducks, as well as other types of water-birds (e.g., geese, swans), and other water-birds. You can check, for example, iNaturalist to see which local water bodies are frequented by which birds.
+2. On Friday afternoon (January 20) (or latest Saturday morning), choose two experimental sites that you strongly suspect have different levels of diversity of seed eating birds.  For example, urban parks will mostly have sparrows and starlings, and a few other species (e.g., blue tits). Larger parks with forests and open lands will have those species, but also likely many others (great tits, wagtails, warblers, creepers, wrens, woodpeckers, etc). Choose 'feeding' locations within each site that are similar, such as in a tall shrub or branch of a tree and tie one seed ball to it (do not put them on the ground, where small mammals can also get to them). At each site (urban vs forest), choose three similar sites (shrub/tree) nearby each other (e.g., within 10-20 m) and deploy 3 seed balls at each site so that you can observe birds visiting all seed balls at the same time. I recommend finding sites near where you see birds foraging (usually on edges), and even near other feeding areas would be good so that birds are familiar with the feeding area. In all, you will have 3 seed balls near each other in one site (low diversity) and another 3 seed balls near each other in the other site (high diversity).
 
-3. At each water body, look around and identify the numbers and types of water-birds you see in a given sample area (can be an estimate, but keep track of abundance and species in a roughly similar area). Focus primarily on bird species that can eat the bread (ducks, geese, swans, coots). But also note any other primarily water birds you observe (herons, cormorants) and differences in their diets, traits, etc.
+3. Check on your seed balls at least once over the weekend. Make sure they are still in place, and check to see if birds have found them. If they seem that no birds have found them, you can consider moving them to a 'better' location nearby. Make observations of which species (and how many) seem to be visiting to prepare yourself for data collection on Monday (you don't need to collect data over the weekend, just make preliminary observations to prepare your worksheet). Bird identification is not essential, as long as you can tell that species are different (or even get a picture). However, there are many good apps and sources for identifiying birds (e.g., iNaturalist and seek). Even by sound (merlin bird ID is a great app!).
 
-4. *Measuring Functional Diversity*. Take note of differences in the ‘functional traits’ of species you observe. This will be up to you, but for example, coots are smaller, have smaller beaks, are faster, etc. Ducks have short necks, geese and swans have long necks, etc. Try to put species/traits into categories. Some traits that you use to tell species apart (e.g., color, feather crests) will not likely have any functional role, so avoid using those traits.
+4. *Measuring Functional Diversity*. Take note of differences in the ‘functional traits’ of species you observe. This will be up to you, but for example, xxx Try to put species/traits into categories. Some traits that you use to tell species apart (e.g., color, feather crests) will not likely have any functional role, so avoid using those traits.
 
-5. *Measuring ecosystem functioning*. Experimentally estimate the capability of the community of birds that you have observed to influence their ecosystem via consumption. I suggest the following rough design, though feel free to modify it in any way you wish.
+5. *Measuring ecosystem functioning*. Exxxx
 
    a. prime the area by throwing a small amount of bread into the water, to get the birds to notice the food and start feeding.
   
