@@ -30,9 +30,11 @@ Alternative Hypothesis 2: Diversity and/or functional diversity will influence t
 
 3. Check on your seed balls at least once over the weekend. Make sure they are still in place, and check to see if birds have found them. If they seem that no birds have found them, you can consider moving them to a 'better' location nearby. Make observations of which species (and how many) seem to be visiting to prepare yourself for data collection on Monday (you don't need to collect data over the weekend, just make preliminary observations to prepare your worksheet). Bird identification is not essential, as long as you can tell that species are different (or even get a picture). However, there are many good apps and sources for identifiying birds (e.g., iNaturalist and seek). Even by sound (merlin bird ID is a great app!).
 
-4. *Measuring Functional Diversity*. Take note of differences in the ‘functional traits’ of species you observe. This will be up to you, but for example, xxx Try to put species/traits into categories. Some traits that you use to tell species apart (e.g., color, feather crests) will not likely have any functional role, so avoid using those traits.
+4. *Measuring Functional Diversity*. Take note of differences in the ‘functional traits’ of species you observe. This will be up to you, but for example, some species have shorter legs, some have longer legs. Some have long/skinny beaks, others have short/fat beaks. Some forage in groups while others forage alone. Try to put species/traits into categories. Some traits that you use to tell species apart (e.g., color, feather crests) will not likely have any functional role, so avoid using those traits.
 
-5. *Measuring ecosystem functioning*. Exxxx
+5. *measuring species visitation*. On Monday morning, 
+
+7. *Measuring ecosystem functioning*. Exxxx
 
    a. prime the area by throwing a small amount of bread into the water, to get the birds to notice the food and start feeding.
   
