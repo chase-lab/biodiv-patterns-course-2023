@@ -1,10 +1,13 @@
 # Helpdesk: 10:00 - 11:00
-Log in here, at the times below to get help: 
-https://facetime.apple.com/join#v=1&p=BBRbtZZLEe27oAZNcpcL5Q&k=5jnP8aGazlCx0ez973uOUr9fPOUyyAria5AK_d5C0h4
+Log in, at the times below to get help
 
-- 10:00 Helpdesk group 1 
+- 10:00 Helpdesk group 1
+https://us04web.zoom.us/j/77342950695?pwd=8uuaACa0fuAc3aj76PdWoRbmGI5mcK.1
 
 - 10:30 Helpdesk group 2
+https://us04web.zoom.us/j/4253956239?pwd=eFQ0NmFqbnZlNHZRVG54NjVTdWRYUT09
+
+
 
 # Project presentations: 12:00 - 13:00
 
