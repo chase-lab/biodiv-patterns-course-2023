@@ -1,0 +1,1727 @@
+"PlotID"	"Study"	"Island"	"Scientific_name"	"Native_Status"	"Abundance"
+"1"	1	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	12
+"2"	1	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cordyline fruticosa"	"native"	3
+"3"	1	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Diospyros sandwicensis"	"native"	3
+"4"	1	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	34
+"5"	1	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Nestegis sandwicensis"	"native"	1
+"6"	1	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	6
+"7"	1	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psydrax odorata"	"native"	14
+"8"	1	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Styphelia tameiameiae"	"native"	1
+"9"	1	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Wikstroemia oahuensis"	"native"	1
+"10"	2	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	4
+"11"	2	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	43
+"12"	2	"Zimmerman"	"Hawai'i Island"	"Polyscias hawaiensis"	"native"	1
+"13"	2	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	6
+"14"	2	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"15"	2	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	6
+"16"	3	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	1
+"17"	3	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	36
+"18"	4	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"19"	4	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	5
+"20"	4	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	3
+"21"	4	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	50
+"22"	4	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"23"	4	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	2
+"24"	5	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	41
+"25"	5	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	49
+"26"	5	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	3
+"27"	6	"Zimmerman"	"Hawai'i Island"	"Aleurites moluccanus"	"alien"	7
+"28"	6	"Zimmerman"	"Hawai'i Island"	"Falcataria moluccana"	"alien"	2
+"29"	6	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"30"	6	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"31"	6	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	12
+"32"	6	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	9
+"33"	6	"Zimmerman"	"Hawai'i Island"	"Trema orientalis"	"alien"	1
+"34"	7	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	24
+"35"	7	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	12
+"36"	7	"Zimmerman"	"Hawai'i Island"	"Polyscias hawaiensis"	"native"	1
+"37"	7	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	26
+"38"	7	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"39"	7	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	10
+"40"	8	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"41"	8	"Zimmerman"	"Hawai'i Island"	"Freycinetia arborea"	"native"	1
+"42"	8	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	1
+"43"	8	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	27
+"44"	8	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	43
+"45"	8	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	2
+"46"	8	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	12
+"47"	9	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	5
+"48"	9	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	18
+"49"	10	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	21
+"50"	10	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"51"	10	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	32
+"52"	10	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"53"	10	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	2
+"54"	11	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	2
+"55"	11	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	23
+"56"	11	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	5
+"57"	11	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	3
+"58"	12	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"59"	12	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	24
+"60"	12	"Zimmerman"	"Hawai'i Island"	"Polyscias hawaiensis"	"native"	8
+"61"	12	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	34
+"62"	12	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"63"	13	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"64"	13	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	24
+"65"	13	"Zimmerman"	"Hawai'i Island"	"Polyscias hawaiensis"	"native"	1
+"66"	13	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	44
+"67"	13	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"68"	14	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	3
+"69"	14	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	22
+"70"	15	"Knight_Barton"	"Maui Island"	"Cheirodendron trigynum"	"native"	14
+"71"	15	"Knight_Barton"	"Maui Island"	"Coprosma foliosa"	"native"	18
+"72"	15	"Knight_Barton"	"Maui Island"	"Ilex anomala"	"native"	2
+"73"	15	"Knight_Barton"	"Maui Island"	"Melicope clusiifolia"	"native"	4
+"74"	15	"Knight_Barton"	"Maui Island"	"Metrosideros polymorpha"	"native"	28
+"75"	15	"Knight_Barton"	"Maui Island"	"Myrsine lessertiana"	"native"	2
+"76"	15	"Knight_Barton"	"Maui Island"	"Rubus macraei"	"native"	2
+"77"	15	"Knight_Barton"	"Maui Island"	"Styphelia tameiameiae"	"native"	12
+"78"	15	"Knight_Barton"	"Maui Island"	"Vaccinium dentatum"	"native"	22
+"79"	16	"Knight_Barton"	"Hawai'i Island"	"Dodonaea viscosa"	"native"	6
+"80"	16	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	48
+"81"	16	"Knight_Barton"	"Hawai'i Island"	"Osteomeles anthyllidifolia"	"native"	2
+"82"	16	"Knight_Barton"	"Hawai'i Island"	"Styphelia tameiameiae"	"native"	35
+"83"	17	"Knight_Barton"	"Hawai'i Island"	"Dodonaea viscosa"	"native"	2
+"84"	17	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"85"	17	"Knight_Barton"	"Hawai'i Island"	"Myrica faya"	"alien"	9
+"86"	17	"Knight_Barton"	"Hawai'i Island"	"Osteomeles anthyllidifolia"	"native"	1
+"87"	17	"Knight_Barton"	"Hawai'i Island"	"Styphelia tameiameiae"	"native"	63
+"88"	18	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	25
+"89"	18	"Knight_Barton"	"Hawai'i Island"	"Myrica faya"	"alien"	34
+"90"	20	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	5
+"91"	20	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	23
+"92"	20	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	4
+"93"	20	"PACN_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	15
+"94"	21	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	11
+"95"	21	"PACN_Hawaii"	"Maui Island"	"Coprosma ochracea"	"native"	2
+"96"	21	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	101
+"97"	21	"PACN_Hawaii"	"Maui Island"	"Myrsine lessertiana"	"native"	1
+"98"	22	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	2
+"99"	22	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	79
+"100"	23	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	23
+"101"	23	"PACN_Hawaii"	"Maui Island"	"Melicope clusiifolia"	"native"	1
+"102"	23	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	97
+"103"	23	"PACN_Hawaii"	"Maui Island"	"Psychotria mariniana"	"native"	1
+"104"	24	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	7
+"105"	24	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	12
+"106"	24	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	66
+"107"	25	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	17
+"108"	25	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	19
+"109"	25	"PACN_Hawaii"	"Maui Island"	"Melicope clusiifolia"	"native"	2
+"110"	25	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	42
+"111"	25	"PACN_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	2
+"112"	26	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	16
+"113"	26	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	59
+"114"	27	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	16
+"115"	27	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	69
+"116"	28	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	3
+"117"	28	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	32
+"118"	28	"PACN_Hawaii"	"Maui Island"	"Polyscias oahuensis"	"native"	1
+"119"	29	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	16
+"120"	29	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	9
+"121"	29	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	56
+"122"	29	"PACN_Hawaii"	"Maui Island"	"Pittosporum glabrum"	"native"	1
+"123"	30	"PACN_Hawaii"	"Maui Island"	"Acacia confusa"	"alien"	1
+"124"	30	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	6
+"125"	30	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	16
+"126"	30	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	52
+"127"	30	"PACN_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	3
+"128"	31	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	29
+"129"	31	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	94
+"130"	31	"PACN_Hawaii"	"Maui Island"	"Myrsine lessertiana"	"native"	1
+"131"	31	"PACN_Hawaii"	"Maui Island"	"Polyscias oahuensis"	"native"	1
+"132"	32	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	10
+"133"	32	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	19
+"134"	32	"PACN_Hawaii"	"Maui Island"	"Ilex anomala"	"native"	2
+"135"	32	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	90
+"136"	33	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	13
+"137"	33	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	12
+"138"	33	"PACN_Hawaii"	"Maui Island"	"Ilex anomala"	"native"	1
+"139"	33	"PACN_Hawaii"	"Maui Island"	"Melicope clusiifolia"	"native"	1
+"140"	33	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	35
+"141"	33	"PACN_Hawaii"	"Maui Island"	"Myrsine lessertiana"	"native"	1
+"142"	33	"PACN_Hawaii"	"Maui Island"	"Polyscias oahuensis"	"native"	1
+"143"	34	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	7
+"144"	34	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	4
+"145"	34	"PACN_Hawaii"	"Maui Island"	"Melicope clusiifolia"	"native"	1
+"146"	34	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	51
+"147"	34	"PACN_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	39
+"148"	34	"PACN_Hawaii"	"Maui Island"	"Syzygium sandwicense"	"native"	9
+"149"	35	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	10
+"150"	35	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	4
+"151"	35	"PACN_Hawaii"	"Maui Island"	"Melicope clusiifolia"	"native"	3
+"152"	35	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	78
+"153"	35	"PACN_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	25
+"154"	35	"PACN_Hawaii"	"Maui Island"	"Syzygium sandwicense"	"native"	3
+"155"	36	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	18
+"156"	36	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	85
+"157"	36	"PACN_Hawaii"	"Maui Island"	"Myrsine lessertiana"	"native"	1
+"158"	37	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	14
+"159"	37	"PACN_Hawaii"	"Maui Island"	"Antidesma platyphyllum"	"native"	1
+"160"	37	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	14
+"161"	37	"PACN_Hawaii"	"Maui Island"	"Ilex anomala"	"native"	2
+"162"	37	"PACN_Hawaii"	"Maui Island"	"Melicope clusiifolia"	"native"	3
+"163"	37	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	48
+"164"	37	"PACN_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	49
+"165"	37	"PACN_Hawaii"	"Maui Island"	"Psychotria hawaiiensis"	"native"	2
+"166"	37	"PACN_Hawaii"	"Maui Island"	"Syzygium sandwicense"	"native"	3
+"167"	38	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	1
+"168"	38	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	25
+"169"	39	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	8
+"170"	39	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	17
+"171"	39	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	49
+"172"	39	"PACN_Hawaii"	"Maui Island"	"Myrsine lessertiana"	"native"	2
+"173"	39	"PACN_Hawaii"	"Maui Island"	"Polyscias oahuensis"	"native"	1
+"174"	40	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	6
+"175"	40	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	14
+"176"	40	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	122
+"177"	40	"PACN_Hawaii"	"Maui Island"	"Polyscias oahuensis"	"native"	2
+"178"	41	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	5
+"179"	41	"PACN_Hawaii"	"Maui Island"	"Ilex anomala"	"native"	2
+"180"	41	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	61
+"181"	42	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	7
+"182"	42	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	16
+"183"	42	"PACN_Hawaii"	"Maui Island"	"Ilex anomala"	"native"	1
+"184"	42	"PACN_Hawaii"	"Maui Island"	"Melicope volcanica"	"native"	1
+"185"	42	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	105
+"186"	43	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	13
+"187"	43	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	14
+"188"	43	"PACN_Hawaii"	"Maui Island"	"Ilex anomala"	"native"	1
+"189"	43	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	108
+"190"	44	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	6
+"191"	44	"PACN_Hawaii"	"Maui Island"	"Antidesma platyphyllum"	"native"	2
+"192"	44	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	1
+"193"	44	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	5
+"194"	44	"PACN_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	54
+"195"	44	"PACN_Hawaii"	"Maui Island"	"Psychotria hawaiiensis"	"native"	1
+"196"	45	"PACN_Hawaii"	"Maui Island"	"Acacia koa"	"native"	11
+"197"	45	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	46
+"198"	45	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	30
+"199"	45	"PACN_Hawaii"	"Maui Island"	"Perrottetia sandwicensis"	"native"	1
+"200"	45	"PACN_Hawaii"	"Maui Island"	"Psychotria hawaiiensis"	"native"	1
+"201"	46	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	4
+"202"	46	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	76
+"203"	47	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	11
+"204"	47	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	16
+"205"	48	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	17
+"206"	48	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	54
+"207"	49	"PACN_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	25
+"208"	49	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	44
+"209"	50	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	7
+"210"	50	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cordyline fruticosa"	"native"	1
+"211"	50	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	46
+"212"	50	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	4
+"213"	50	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psychotria hexandra"	"native"	2
+"214"	50	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Scaevola gaudichaudiana"	"native"	2
+"215"	50	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Wikstroemia oahuensis"	"native"	1
+"216"	51	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"217"	52	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	30
+"218"	53	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"219"	54	"PACN_Hawaii"	"Hawai'i Island"	"Myoporum sandwicense"	"native"	1
+"220"	54	"PACN_Hawaii"	"Hawai'i Island"	"Sophora chrysophylla"	"native"	7
+"221"	55	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"222"	56	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"223"	57	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	21
+"224"	58	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	26
+"225"	59	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"226"	60	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	34
+"227"	61	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"228"	62	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	38
+"229"	63	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"230"	64	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"231"	65	"PACN_Hawaii"	"Hawai'i Island"	"Sophora chrysophylla"	"native"	9
+"232"	66	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	38
+"233"	67	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	56
+"234"	68	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	8
+"235"	69	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	12
+"236"	70	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	12
+"237"	71	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	6
+"238"	71	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	1
+"239"	71	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	19
+"240"	71	"PACN_Hawaii"	"Hawai'i Island"	"Kadua affinis"	"native"	1
+"241"	71	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	37
+"242"	71	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	2
+"243"	71	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine sandwicensis"	"native"	1
+"244"	72	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	1
+"245"	72	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"246"	73	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	6
+"247"	73	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	24
+"248"	73	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"249"	73	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	1
+"250"	74	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	12
+"251"	74	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	1
+"252"	75	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	13
+"253"	75	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	27
+"254"	76	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	8
+"255"	77	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"256"	77	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"257"	78	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	5
+"258"	78	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	10
+"259"	78	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	65
+"260"	78	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"261"	79	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	4
+"262"	79	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	1
+"263"	79	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	6
+"264"	79	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	24
+"265"	79	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	17
+"266"	80	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	71
+"267"	81	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	5
+"268"	81	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	12
+"269"	81	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	11
+"270"	81	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	8
+"271"	82	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"272"	82	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	2
+"273"	82	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	7
+"274"	82	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	15
+"275"	82	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	4
+"276"	83	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	2
+"277"	83	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"278"	83	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	81
+"279"	83	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	4
+"280"	84	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	9
+"281"	84	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	2
+"282"	84	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"283"	84	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"284"	85	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"285"	85	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"286"	86	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"287"	87	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"288"	87	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"289"	88	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"290"	88	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"291"	88	"PACN_Hawaii"	"Hawai'i Island"	"Pittosporum hosmeri"	"native"	1
+"292"	89	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"293"	89	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"294"	89	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"295"	90	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"296"	90	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	1
+"297"	90	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"298"	90	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"299"	91	"PACN_Hawaii"	"Hawai'i Island"	"Melicope clusiifolia"	"native"	1
+"300"	91	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	10
+"301"	91	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"302"	92	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"303"	93	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	51
+"304"	94	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	8
+"305"	94	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	30
+"306"	95	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"307"	95	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	4
+"308"	95	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	9
+"309"	95	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	48
+"310"	95	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	6
+"311"	96	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"312"	96	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	3
+"313"	96	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	47
+"314"	96	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	19
+"315"	96	"PACN_Hawaii"	"Hawai'i Island"	"Prunus persica"	"alien"	1
+"316"	97	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"317"	97	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	4
+"318"	97	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	24
+"319"	97	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	7
+"320"	97	"PACN_Hawaii"	"Hawai'i Island"	"Pittosporum hosmeri"	"native"	1
+"321"	98	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"322"	99	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"323"	99	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"324"	99	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"325"	100	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"326"	101	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	68
+"327"	101	"PACN_Hawaii"	"Hawai'i Island"	"Myrica faya"	"alien"	8
+"328"	102	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	65
+"329"	103	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	136
+"330"	103	"PACN_Hawaii"	"Hawai'i Island"	"Myrica faya"	"alien"	25
+"331"	103	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"332"	103	"PACN_Hawaii"	"Hawai'i Island"	"Pipturus albidus"	"native"	1
+"333"	103	"PACN_Hawaii"	"Hawai'i Island"	"Santalum paniculatum"	"native"	2
+"334"	105	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"335"	105	"PACN_Hawaii"	"Hawai'i Island"	"Melicope clusiifolia"	"native"	3
+"336"	105	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	13
+"337"	105	"PACN_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	2
+"338"	106	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"339"	106	"PACN_Hawaii"	"Hawai'i Island"	"Myrica faya"	"alien"	2
+"340"	107	"PACN_Hawaii"	"Hawai'i Island"	"Melicope clusiifolia"	"native"	1
+"341"	107	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	60
+"342"	107	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	2
+"343"	107	"PACN_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	3
+"344"	108	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	9
+"345"	109	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"346"	110	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	99
+"347"	110	"PACN_Hawaii"	"Hawai'i Island"	"Myrica faya"	"alien"	8
+"348"	111	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"349"	112	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	1
+"350"	112	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	2
+"351"	112	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	80
+"352"	112	"PACN_Hawaii"	"Hawai'i Island"	"Myrica faya"	"alien"	22
+"353"	113	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	82
+"354"	113	"PACN_Hawaii"	"Hawai'i Island"	"Myrica faya"	"alien"	1
+"355"	113	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"356"	113	"PACN_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	6
+"357"	115	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"358"	117	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	107
+"359"	117	"PACN_Hawaii"	"Hawai'i Island"	"Myrica faya"	"alien"	7
+"360"	119	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	7
+"361"	119	"PACN_Hawaii"	"Hawai'i Island"	"Melicope clusiifolia"	"native"	10
+"362"	119	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	69
+"363"	119	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"364"	120	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	30
+"365"	121	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	3
+"366"	122	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	11
+"367"	122	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	8
+"368"	122	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	7
+"369"	122	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	19
+"370"	122	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	2
+"371"	123	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	17
+"372"	123	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	2
+"373"	123	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	4
+"374"	123	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"375"	123	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	1
+"376"	124	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	14
+"377"	124	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	13
+"378"	124	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	21
+"379"	124	"PACN_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	37
+"380"	125	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	10
+"381"	125	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	1
+"382"	125	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"383"	125	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	74
+"384"	126	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	5
+"385"	126	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	6
+"386"	126	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	3
+"387"	126	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"388"	127	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	6
+"389"	127	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"390"	127	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"391"	127	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"392"	128	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	35
+"393"	128	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	6
+"394"	128	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	4
+"395"	128	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	48
+"396"	128	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"397"	128	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	1
+"398"	129	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"399"	129	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	1
+"400"	129	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	1
+"401"	129	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	3
+"402"	129	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"403"	129	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"404"	129	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	1
+"405"	130	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	20
+"406"	130	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	3
+"407"	130	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	14
+"408"	130	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"409"	131	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	9
+"410"	131	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	4
+"411"	131	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"412"	131	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	9
+"413"	132	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	9
+"414"	132	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	3
+"415"	132	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"416"	132	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"417"	132	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	3
+"418"	133	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	36
+"419"	133	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	5
+"420"	133	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	86
+"421"	133	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	2
+"422"	134	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"423"	134	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"424"	134	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	14
+"425"	134	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"426"	135	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"427"	135	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	133
+"428"	136	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	39
+"429"	136	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	2
+"430"	136	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	9
+"431"	136	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	35
+"432"	136	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	7
+"433"	137	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	11
+"434"	137	"PACN_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	7
+"435"	137	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	2
+"436"	137	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"437"	137	"PACN_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	11
+"438"	138	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	13
+"439"	138	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	4
+"440"	138	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	29
+"441"	138	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"442"	139	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	32
+"443"	139	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"444"	139	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	142
+"445"	139	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"446"	140	"PACN_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	16
+"447"	140	"PACN_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	4
+"448"	140	"PACN_Hawaii"	"Hawai'i Island"	"Kadua affinis"	"native"	1
+"449"	140	"PACN_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	36
+"450"	140	"PACN_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"451"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Aleurites moluccanus"	"alien"	7
+"452"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Antidesma pulvinatum"	"native"	8
+"453"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Diospyros sandwicensis"	"native"	1
+"454"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Grevillea robusta"	"alien"	8
+"455"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Nestegis sandwicensis"	"native"	3
+"456"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Pisonia sandwicensis"	"native"	11
+"457"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Planchonella sandwicensis"	"native"	3
+"458"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Rauvolfia sandwicensis"	"native"	4
+"459"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Sapindus oahuensis"	"native"	48
+"460"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	21
+"461"	141	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Trema orientalis"	"alien"	1
+"462"	142	"Knight_Barton"	"Maui Island"	"Metrosideros polymorpha"	"native"	5
+"463"	142	"Knight_Barton"	"Maui Island"	"Psidium cattleianum"	"alien"	8
+"464"	142	"Knight_Barton"	"Maui Island"	"Flindersia brayleyana"	"alien"	17
+"465"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	16
+"466"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Antidesma platyphyllum"	"native"	3
+"467"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Coprosma foliosa"	"native"	5
+"468"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cyanea angustifolia"	"native"	1
+"469"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Diospyros sandwicensis"	"native"	2
+"470"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	81
+"471"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Myrsine lanaiensis"	"native"	1
+"472"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Myrsine lessertiana"	"native"	1
+"473"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	3
+"474"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psychotria mariniana"	"native"	4
+"475"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psydrax odorata"	"native"	14
+"476"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Santalum freycinetianum"	"native"	2
+"477"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	1
+"478"	143	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Styphelia tameiameiae"	"native"	1
+"479"	144	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	24
+"480"	144	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	2
+"481"	144	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	58
+"482"	145	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	17
+"483"	145	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	2
+"484"	145	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	83
+"485"	146	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	10
+"486"	146	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	78
+"487"	147	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	12
+"488"	147	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	1
+"489"	147	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	167
+"490"	147	"PACN_Hawaii"	"Moloka'i Island"	"Myrsine lessertiana"	"native"	1
+"491"	148	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	31
+"492"	148	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	1
+"493"	148	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	122
+"494"	149	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	26
+"495"	149	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	63
+"496"	150	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	22
+"497"	150	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	65
+"498"	151	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	5
+"499"	151	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	110
+"500"	152	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	26
+"501"	152	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	1
+"502"	152	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	98
+"503"	153	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	2
+"504"	153	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	16
+"505"	154	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	5
+"506"	154	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	96
+"507"	155	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	17
+"508"	155	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	117
+"509"	155	"PACN_Hawaii"	"Moloka'i Island"	"Myrsine lessertiana"	"native"	5
+"510"	155	"PACN_Hawaii"	"Moloka'i Island"	"Psychotria mariniana"	"native"	2
+"511"	156	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	42
+"512"	156	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	3
+"513"	156	"PACN_Hawaii"	"Moloka'i Island"	"Melicope clusiifolia"	"native"	1
+"514"	156	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	45
+"515"	157	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	26
+"516"	157	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	3
+"517"	157	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	77
+"518"	158	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	34
+"519"	158	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	1
+"520"	158	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	87
+"521"	158	"PACN_Hawaii"	"Moloka'i Island"	"Myrsine lessertiana"	"native"	2
+"522"	159	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	13
+"523"	159	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	1
+"524"	159	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	72
+"525"	159	"PACN_Hawaii"	"Moloka'i Island"	"Myrsine lessertiana"	"native"	1
+"526"	159	"PACN_Hawaii"	"Moloka'i Island"	"Myrsine sandwicensis"	"native"	1
+"527"	160	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	47
+"528"	160	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	2
+"529"	160	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	82
+"530"	160	"PACN_Hawaii"	"Moloka'i Island"	"Myrsine lessertiana"	"native"	1
+"531"	161	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	17
+"532"	161	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	71
+"533"	161	"PACN_Hawaii"	"Moloka'i Island"	"Psychotria mariniana"	"native"	3
+"534"	162	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	23
+"535"	162	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	57
+"536"	162	"PACN_Hawaii"	"Moloka'i Island"	"Polyscias oahuensis"	"native"	2
+"537"	163	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	15
+"538"	163	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	215
+"539"	164	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	27
+"540"	164	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	1
+"541"	164	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	86
+"542"	164	"PACN_Hawaii"	"Moloka'i Island"	"Myrsine lessertiana"	"native"	1
+"543"	164	"PACN_Hawaii"	"Moloka'i Island"	"Psychotria mariniana"	"native"	2
+"544"	165	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	18
+"545"	165	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	141
+"546"	165	"PACN_Hawaii"	"Moloka'i Island"	"Myrsine lessertiana"	"native"	1
+"547"	166	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	15
+"548"	166	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	1
+"549"	166	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	152
+"550"	166	"PACN_Hawaii"	"Moloka'i Island"	"Myrsine lessertiana"	"native"	1
+"551"	167	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	24
+"552"	167	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	1
+"553"	167	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	45
+"554"	167	"PACN_Hawaii"	"Moloka'i Island"	"Myrsine lessertiana"	"native"	1
+"555"	168	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	11
+"556"	168	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	92
+"557"	169	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	17
+"558"	169	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	66
+"559"	170	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	28
+"560"	170	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	92
+"561"	170	"PACN_Hawaii"	"Moloka'i Island"	"Psychotria hawaiiensis"	"native"	2
+"562"	171	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	15
+"563"	171	"PACN_Hawaii"	"Moloka'i Island"	"Ilex anomala"	"native"	1
+"564"	171	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	126
+"565"	172	"PACN_Hawaii"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	5
+"566"	172	"PACN_Hawaii"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	160
+"567"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Aleurites moluccanus"	"alien"	7
+"568"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cordyline fruticosa"	"native"	11
+"569"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Diospyros sandwicensis"	"native"	142
+"570"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Grevillea robusta"	"alien"	1
+"571"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	2
+"572"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Nestegis sandwicensis"	"native"	3
+"573"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Polyscias sandwicensis"	"native"	1
+"574"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium guajava"	"alien"	3
+"575"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psydrax odorata"	"native"	11
+"576"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Sapindus oahuensis"	"native"	2
+"577"	173	"Gillespie"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	12
+"578"	174	"Knight_Barton"	"Moloka'i Island"	"Cheirodendron trigynum"	"native"	2
+"579"	174	"Knight_Barton"	"Moloka'i Island"	"Coprosma ochracea"	"native"	9
+"580"	174	"Knight_Barton"	"Moloka'i Island"	"Dodonaea viscosa"	"native"	1
+"581"	174	"Knight_Barton"	"Moloka'i Island"	"Melicope clusiifolia"	"native"	2
+"582"	174	"Knight_Barton"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	55
+"583"	174	"Knight_Barton"	"Moloka'i Island"	"Psychotria mariniana"	"native"	11
+"584"	174	"Knight_Barton"	"Moloka'i Island"	"Scaevola gaudichaudiana"	"native"	1
+"585"	174	"Knight_Barton"	"Moloka'i Island"	"Styphelia tameiameiae"	"native"	32
+"586"	174	"Knight_Barton"	"Moloka'i Island"	"Syzygium sandwicense"	"native"	1
+"587"	174	"Knight_Barton"	"Moloka'i Island"	"Wikstroemia oahuensis"	"native"	15
+"588"	175	"Knight_Barton"	"Moloka'i Island"	"Coprosma ochracea"	"native"	1
+"589"	175	"Knight_Barton"	"Moloka'i Island"	"Dodonaea viscosa"	"native"	45
+"590"	175	"Knight_Barton"	"Moloka'i Island"	"Dubautia plantaginea"	"native"	1
+"591"	175	"Knight_Barton"	"Moloka'i Island"	"Metrosideros polymorpha"	"native"	92
+"592"	175	"Knight_Barton"	"Moloka'i Island"	"Osteomeles anthyllidifolia"	"native"	3
+"593"	175	"Knight_Barton"	"Moloka'i Island"	"Pinus elliottii"	"alien"	1
+"594"	175	"Knight_Barton"	"Moloka'i Island"	"Styphelia tameiameiae"	"native"	110
+"595"	175	"Knight_Barton"	"Moloka'i Island"	"Vaccinium dentatum"	"native"	1
+"596"	175	"Knight_Barton"	"Moloka'i Island"	"Wikstroemia oahuensis"	"native"	5
+"597"	176	"Gillespie"	"Moloka'i Island"	"Acacia koaia"	"native"	23
+"598"	176	"Gillespie"	"Moloka'i Island"	"Diospyros sandwicensis"	"native"	3
+"599"	176	"Gillespie"	"Moloka'i Island"	"Leucaena leucocephala"	"alien"	1
+"600"	176	"Gillespie"	"Moloka'i Island"	"Nototrichium sandwicense"	"native"	2
+"601"	176	"Gillespie"	"Moloka'i Island"	"Pinus elliottii"	"alien"	2
+"602"	177	"Gillespie"	"Maui Island"	"Bocconia frutescens"	"alien"	2
+"603"	177	"Gillespie"	"Maui Island"	"Diospyros sandwicensis"	"native"	14
+"604"	177	"Gillespie"	"Maui Island"	"Dracaena rockii"	"native"	2
+"605"	177	"Gillespie"	"Maui Island"	"Planchonella sandwicensis"	"native"	10
+"606"	177	"Gillespie"	"Maui Island"	"Polyscias sandwicensis"	"native"	2
+"607"	177	"Gillespie"	"Maui Island"	"Rauvolfia sandwicensis"	"native"	1
+"608"	177	"Gillespie"	"Maui Island"	"Wikstroemia monticola"	"native"	2
+"609"	178	"Gillespie"	"Lana'i Island"	"Diospyros sandwicensis"	"native"	82
+"610"	178	"Gillespie"	"Lana'i Island"	"Grevillea robusta"	"alien"	6
+"611"	178	"Gillespie"	"Lana'i Island"	"Nestegis sandwicensis"	"native"	51
+"612"	178	"Gillespie"	"Lana'i Island"	"Schinus terebinthifolia"	"alien"	21
+"613"	179	"Gillespie"	"Lana'i Island"	"Diospyros sandwicensis"	"native"	54
+"614"	179	"Gillespie"	"Lana'i Island"	"Leucaena leucocephala"	"alien"	1
+"615"	179	"Gillespie"	"Lana'i Island"	"Myoporum sandwicense"	"native"	1
+"616"	179	"Gillespie"	"Lana'i Island"	"Nestegis sandwicensis"	"native"	43
+"617"	179	"Gillespie"	"Lana'i Island"	"Planchonella sandwicensis"	"native"	1
+"618"	179	"Gillespie"	"Lana'i Island"	"Psydrax odorata"	"native"	4
+"619"	179	"Gillespie"	"Lana'i Island"	"Schinus terebinthifolia"	"alien"	3
+"620"	180	"Gillespie"	"Lana'i Island"	"Diospyros sandwicensis"	"native"	52
+"621"	180	"Gillespie"	"Lana'i Island"	"Lantana camara"	"alien"	2
+"622"	180	"Gillespie"	"Lana'i Island"	"Leucaena leucocephala"	"alien"	1
+"623"	180	"Gillespie"	"Lana'i Island"	"Nestegis sandwicensis"	"native"	48
+"624"	180	"Gillespie"	"Lana'i Island"	"Schinus terebinthifolia"	"alien"	21
+"625"	181	"Knight_Barton"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"626"	181	"Knight_Barton"	"Hawai'i Island"	"Coprosma ochracea"	"native"	7
+"627"	181	"Knight_Barton"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"628"	181	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	10
+"629"	182	"Gillespie"	"Hawai'i Island"	"Colubrina oppositifolia"	"native"	1
+"630"	182	"Gillespie"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	56
+"631"	182	"Gillespie"	"Hawai'i Island"	"Dracaena konaensis"	"native"	1
+"632"	182	"Gillespie"	"Hawai'i Island"	"Planchonella sandwicensis"	"native"	1
+"633"	182	"Gillespie"	"Hawai'i Island"	"Polyscias sandwicensis"	"native"	1
+"634"	182	"Gillespie"	"Hawai'i Island"	"Psydrax odorata"	"native"	17
+"635"	183	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	3
+"636"	183	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	2
+"637"	183	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	46
+"638"	183	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	13
+"639"	183	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"640"	183	"Zimmerman"	"Hawai'i Island"	"Macaranga mappa"	"alien"	2
+"641"	184	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	5
+"642"	184	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	4
+"643"	184	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	11
+"644"	184	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	4
+"645"	184	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	41
+"646"	184	"Zimmerman"	"Hawai'i Island"	"Macaranga mappa"	"alien"	3
+"647"	185	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	3
+"648"	185	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	4
+"649"	185	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	37
+"650"	185	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"651"	185	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	3
+"652"	185	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"653"	185	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	3
+"654"	185	"Zimmerman"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"655"	186	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	2
+"656"	186	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"657"	186	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	49
+"658"	186	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	14
+"659"	186	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	4
+"660"	186	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	19
+"661"	187	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	4
+"662"	187	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	2
+"663"	187	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	71
+"664"	187	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	15
+"665"	187	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	4
+"666"	188	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	5
+"667"	188	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	3
+"668"	188	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	2
+"669"	188	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	9
+"670"	188	"Zimmerman"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"671"	188	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	29
+"672"	188	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	5
+"673"	188	"Zimmerman"	"Hawai'i Island"	"Macaranga mappa"	"alien"	5
+"674"	189	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	5
+"675"	189	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	7
+"676"	189	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	26
+"677"	189	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"678"	189	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"679"	189	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	2
+"680"	189	"Zimmerman"	"Hawai'i Island"	"Macaranga mappa"	"alien"	14
+"681"	190	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	14
+"682"	190	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"683"	190	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	22
+"684"	190	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	24
+"685"	190	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	1
+"686"	190	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	2
+"687"	190	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	2
+"688"	190	"Zimmerman"	"Hawai'i Island"	"Macaranga mappa"	"alien"	14
+"689"	191	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	4
+"690"	191	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	2
+"691"	191	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	29
+"692"	191	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"693"	191	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	12
+"694"	191	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"695"	191	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	1
+"696"	191	"Zimmerman"	"Hawai'i Island"	"Macaranga mappa"	"alien"	12
+"697"	192	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	43
+"698"	192	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	22
+"699"	192	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	9
+"700"	192	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"701"	193	"Knight_Barton"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	11
+"702"	193	"Knight_Barton"	"Hawai'i Island"	"Coprosma ochracea"	"native"	7
+"703"	193	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	42
+"704"	193	"Knight_Barton"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"705"	197	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	2
+"706"	197	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"707"	197	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	11
+"708"	198	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"709"	198	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"710"	198	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	11
+"711"	199	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"712"	199	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"713"	199	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	12
+"714"	200	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	3
+"715"	200	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"716"	200	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	10
+"717"	201	"Zimmerman"	"Hawai'i Island"	"Pipturus albidus"	"native"	1
+"718"	201	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	10
+"719"	202	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	2
+"720"	202	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"721"	202	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	2
+"722"	202	"Zimmerman"	"Hawai'i Island"	"Touchardia latifolia"	"native"	4
+"723"	203	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"724"	203	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"725"	203	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	15
+"726"	204	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"727"	204	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	20
+"728"	205	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"729"	205	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"730"	205	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"731"	205	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	8
+"732"	206	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	2
+"733"	206	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	3
+"734"	206	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	10
+"735"	207	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"736"	207	"Knight_Barton"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	127
+"737"	207	"Knight_Barton"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	5
+"738"	207	"Knight_Barton"	"Hawai'i Island"	"Clidemia hirta"	"alien"	1
+"739"	207	"Knight_Barton"	"Hawai'i Island"	"Grevillea banksii"	"alien"	1
+"740"	208	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"741"	209	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"742"	210	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"743"	211	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"744"	212	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"745"	213	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"746"	214	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	8
+"747"	215	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"748"	216	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	3
+"749"	217	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"750"	219	"Knight_Barton"	"Maui Island"	"Metrosideros polymorpha"	"native"	19
+"751"	219	"Knight_Barton"	"Maui Island"	"Myrica faya"	"alien"	3
+"752"	219	"Knight_Barton"	"Maui Island"	"Pinus radiata"	"alien"	8
+"753"	219	"Knight_Barton"	"Maui Island"	"Sophora chrysophylla"	"native"	3
+"754"	219	"Knight_Barton"	"Maui Island"	"Styphelia tameiameiae"	"native"	12
+"755"	219	"Knight_Barton"	"Maui Island"	"Vaccinium reticulatum"	"native"	3
+"756"	221	"Knight_Barton"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	1
+"757"	221	"Knight_Barton"	"Hawai'i Island"	"Falcataria moluccana"	"alien"	1
+"758"	221	"Knight_Barton"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	15
+"759"	221	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	73
+"760"	222	"Gillespie"	"Maui Island"	"Erythrina sandwicensis"	"native"	42
+"761"	222	"Gillespie"	"Maui Island"	"Leucaena leucocephala"	"alien"	45
+"762"	224	"Knight_Barton"	"Maui Island"	"Acacia koa"	"native"	2
+"763"	224	"Knight_Barton"	"Maui Island"	"Cheirodendron trigynum"	"native"	19
+"764"	224	"Knight_Barton"	"Maui Island"	"Clermontia arborescens"	"native"	2
+"765"	224	"Knight_Barton"	"Maui Island"	"Coprosma foliosa"	"native"	5
+"766"	224	"Knight_Barton"	"Maui Island"	"Ilex anomala"	"native"	3
+"767"	224	"Knight_Barton"	"Maui Island"	"Melicope haleakalae"	"native"	3
+"768"	224	"Knight_Barton"	"Maui Island"	"Melicope volcanica"	"native"	3
+"769"	224	"Knight_Barton"	"Maui Island"	"Metrosideros polymorpha"	"native"	17
+"770"	224	"Knight_Barton"	"Maui Island"	"Vaccinium dentatum"	"native"	5
+"771"	225	"Knight_Barton"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	30
+"772"	225	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"773"	225	"Knight_Barton"	"Hawai'i Island"	"Pandanus tectorius"	"native"	28
+"774"	225	"Knight_Barton"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	10
+"775"	225	"Knight_Barton"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	1
+"776"	226	"Gillespie"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	19
+"777"	226	"Gillespie"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"778"	226	"Gillespie"	"Hawai'i Island"	"Nestegis sandwicensis"	"native"	62
+"779"	226	"Gillespie"	"Hawai'i Island"	"Pisonia sandwicensis"	"native"	1
+"780"	226	"Gillespie"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	4
+"781"	226	"Gillespie"	"Hawai'i Island"	"Psydrax odorata"	"native"	24
+"782"	226	"Gillespie"	"Hawai'i Island"	"Wikstroemia sandwicensis"	"native"	3
+"783"	227	"Gillespie"	"Hawai'i Island"	"Antidesma platyphyllum"	"native"	3
+"784"	227	"Gillespie"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	5
+"785"	227	"Gillespie"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	87
+"786"	227	"Gillespie"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	14
+"787"	227	"Gillespie"	"Hawai'i Island"	"Nestegis sandwicensis"	"native"	4
+"788"	227	"Gillespie"	"Hawai'i Island"	"Pittosporum hosmeri"	"native"	2
+"789"	227	"Gillespie"	"Hawai'i Island"	"Polyscias hawaiensis"	"native"	2
+"790"	227	"Gillespie"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	2
+"791"	227	"Gillespie"	"Hawai'i Island"	"Psydrax odorata"	"native"	12
+"792"	227	"Gillespie"	"Hawai'i Island"	"Wikstroemia sandwicensis"	"native"	2
+"793"	228	"Knight_Barton"	"Hawai'i Island"	"Dodonaea viscosa"	"native"	6
+"794"	228	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	22
+"795"	228	"Knight_Barton"	"Hawai'i Island"	"Sophora chrysophylla"	"native"	3
+"796"	228	"Knight_Barton"	"Hawai'i Island"	"Styphelia tameiameiae"	"native"	12
+"797"	228	"Knight_Barton"	"Hawai'i Island"	"Vaccinium reticulatum"	"native"	1
+"798"	229	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Casuarina equisetifolia"	"alien"	1
+"799"	229	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	10
+"800"	229	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	4
+"801"	231	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	12
+"802"	231	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	36
+"803"	231	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	13
+"804"	231	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	20
+"805"	232	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	2
+"806"	232	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	10
+"807"	232	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	11
+"808"	232	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	14
+"809"	233	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	5
+"810"	233	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	20
+"811"	233	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	18
+"812"	233	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	2
+"813"	233	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	6
+"814"	234	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	2
+"815"	234	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	13
+"816"	234	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"817"	234	"Zimmerman"	"Hawai'i Island"	"Morinda citrifolia"	"alien"	1
+"818"	234	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	26
+"819"	234	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"820"	234	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	5
+"821"	235	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	8
+"822"	235	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	80
+"823"	235	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	2
+"824"	235	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	19
+"825"	236	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	1
+"826"	236	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	7
+"827"	236	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	67
+"828"	236	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	6
+"829"	236	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	9
+"830"	236	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	12
+"831"	237	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	3
+"832"	237	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	7
+"833"	237	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	28
+"834"	237	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	13
+"835"	237	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	3
+"836"	238	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	14
+"837"	238	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	12
+"838"	238	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	8
+"839"	238	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	7
+"840"	238	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	2
+"841"	238	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	2
+"842"	238	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	24
+"843"	239	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	3
+"844"	239	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	3
+"845"	239	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	11
+"846"	239	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	9
+"847"	239	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"848"	239	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	19
+"849"	240	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	9
+"850"	240	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	7
+"851"	240	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	18
+"852"	240	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	11
+"853"	240	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	21
+"854"	241	"Zimmerman"	"Hawai'i Island"	"Falcataria moluccana"	"alien"	1
+"855"	241	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	23
+"856"	241	"Zimmerman"	"Hawai'i Island"	"Morinda citrifolia"	"alien"	1
+"857"	241	"Zimmerman"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	1
+"858"	242	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	23
+"859"	243	"Zimmerman"	"Hawai'i Island"	"Casuarina equisetifolia"	"alien"	1
+"860"	243	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	22
+"861"	243	"Zimmerman"	"Hawai'i Island"	"Wikstroemia sandwicensis"	"native"	1
+"862"	244	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"863"	245	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"864"	246	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	53
+"865"	246	"Zimmerman"	"Hawai'i Island"	"Morinda citrifolia"	"alien"	2
+"866"	246	"Zimmerman"	"Hawai'i Island"	"Wikstroemia sandwicensis"	"native"	1
+"867"	247	"Zimmerman"	"Hawai'i Island"	"Casuarina equisetifolia"	"alien"	1
+"868"	247	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	52
+"869"	247	"Zimmerman"	"Hawai'i Island"	"Morinda citrifolia"	"alien"	1
+"870"	248	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	33
+"871"	248	"Zimmerman"	"Hawai'i Island"	"Morinda citrifolia"	"alien"	1
+"872"	249	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	25
+"873"	250	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	3
+"874"	250	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"875"	251	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	36
+"876"	252	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	45
+"877"	253	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	32
+"878"	254	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	42
+"879"	255	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	49
+"880"	256	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	51
+"881"	257	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	4
+"882"	257	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	13
+"883"	257	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	53
+"884"	257	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	9
+"885"	258	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"886"	258	"Zimmerman"	"Hawai'i Island"	"Wikstroemia sandwicensis"	"native"	1
+"887"	259	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	13
+"888"	259	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	6
+"889"	259	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	8
+"890"	259	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"891"	259	"Zimmerman"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	2
+"892"	259	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"893"	259	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	4
+"894"	259	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	8
+"895"	260	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	9
+"896"	260	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	7
+"897"	260	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	31
+"898"	260	"Zimmerman"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"899"	260	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	2
+"900"	260	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	2
+"901"	260	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	3
+"902"	261	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	4
+"903"	261	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	7
+"904"	261	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	19
+"905"	261	"Zimmerman"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"906"	261	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"907"	261	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"908"	261	"Zimmerman"	"Hawai'i Island"	"Trema orientalis"	"alien"	1
+"909"	262	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	3
+"910"	262	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	5
+"911"	262	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	54
+"912"	262	"Zimmerman"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	2
+"913"	262	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"914"	263	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	7
+"915"	263	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	14
+"916"	263	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	6
+"917"	263	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	45
+"918"	263	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	11
+"919"	263	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"920"	263	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	2
+"921"	264	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	4
+"922"	264	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	7
+"923"	264	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	1
+"924"	264	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	53
+"925"	264	"Zimmerman"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	6
+"926"	264	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	3
+"927"	264	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"928"	264	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	24
+"929"	265	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	7
+"930"	265	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	11
+"931"	265	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	2
+"932"	265	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	36
+"933"	265	"Zimmerman"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	23
+"934"	265	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	2
+"935"	265	"Zimmerman"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	7
+"936"	266	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	1
+"937"	266	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"938"	266	"Zimmerman"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	4
+"939"	266	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	11
+"940"	266	"Zimmerman"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"941"	266	"Zimmerman"	"Hawai'i Island"	"Trema orientalis"	"alien"	1
+"942"	267	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	53
+"943"	268	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	56
+"944"	269	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	49
+"945"	270	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	50
+"946"	271	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	74
+"947"	272	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	21
+"948"	272	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	32
+"949"	272	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	27
+"950"	273	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	18
+"951"	273	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	20
+"952"	273	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	19
+"953"	274	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	18
+"954"	274	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	33
+"955"	274	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	25
+"956"	275	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	2
+"957"	275	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"958"	275	"Zimmerman"	"Hawai'i Island"	"Melochia umbellata"	"alien"	1
+"959"	275	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	22
+"960"	275	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	34
+"961"	275	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	8
+"962"	275	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"963"	276	"Zimmerman"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	1
+"964"	276	"Zimmerman"	"Hawai'i Island"	"Cordyline fruticosa"	"native"	1
+"965"	276	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"966"	276	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	43
+"967"	276	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	7
+"968"	276	"Zimmerman"	"Hawai'i Island"	"Psidium guajava"	"alien"	2
+"969"	277	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	9
+"970"	277	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	28
+"971"	277	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	18
+"972"	278	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	27
+"973"	278	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	36
+"974"	278	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	23
+"975"	279	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"976"	279	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"977"	279	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	3
+"978"	279	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	127
+"979"	280	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"980"	280	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	21
+"981"	280	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	16
+"982"	280	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	24
+"983"	281	"Zimmerman"	"Hawai'i Island"	"Diospyros sandwicensis"	"native"	1
+"984"	281	"Zimmerman"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	10
+"985"	281	"Zimmerman"	"Hawai'i Island"	"Pandanus tectorius"	"native"	17
+"986"	281	"Zimmerman"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	36
+"987"	283	"Knight_Barton"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	29
+"988"	283	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	43
+"989"	285	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Ilex anomala"	"native"	1
+"990"	285	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Kadua affinis"	"native"	4
+"991"	285	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	43
+"992"	285	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Myrica faya"	"alien"	9
+"993"	285	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	1
+"994"	286	"Knight_Barton"	"Hawai'i Island"	"Melaleuca quinquenervia"	"alien"	1
+"995"	286	"Knight_Barton"	"Hawai'i Island"	"Melastoma malabathricum"	"alien"	20
+"996"	286	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	18
+"997"	286	"Knight_Barton"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	30
+"998"	288	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Kadua affinis"	"native"	2
+"999"	288	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	34
+"1000"	289	"Knight_Barton"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"1001"	289	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	45
+"1002"	289	"Knight_Barton"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"1003"	289	"Knight_Barton"	"Hawai'i Island"	"Styphelia tameiameiae"	"native"	1
+"1004"	290	"Knight_Barton"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	6
+"1005"	290	"Knight_Barton"	"Hawai'i Island"	"Ilex anomala"	"native"	2
+"1006"	290	"Knight_Barton"	"Hawai'i Island"	"Kadua affinis"	"native"	1
+"1007"	290	"Knight_Barton"	"Hawai'i Island"	"Melicope clusiifolia"	"native"	1
+"1008"	290	"Knight_Barton"	"Hawai'i Island"	"Melicope volcanica"	"native"	1
+"1009"	290	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	37
+"1010"	290	"Knight_Barton"	"Hawai'i Island"	"Styphelia tameiameiae"	"native"	4
+"1011"	290	"Knight_Barton"	"Hawai'i Island"	"Vaccinium reticulatum"	"native"	1
+"1012"	291	"Knight_Barton"	"Hawai'i Island"	"Acacia koa"	"native"	10
+"1013"	291	"Knight_Barton"	"Hawai'i Island"	"Coprosma ochracea"	"native"	9
+"1014"	291	"Knight_Barton"	"Hawai'i Island"	"Dodonaea viscosa"	"native"	1
+"1015"	291	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"1016"	291	"Knight_Barton"	"Hawai'i Island"	"Myoporum sandwicense"	"native"	1
+"1017"	291	"Knight_Barton"	"Hawai'i Island"	"Styphelia tameiameiae"	"native"	1
+"1018"	292	"Knight_Barton"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"1019"	292	"Knight_Barton"	"Hawai'i Island"	"Clermontia parviflora"	"native"	1
+"1020"	292	"Knight_Barton"	"Hawai'i Island"	"Coprosma ochracea"	"native"	2
+"1021"	292	"Knight_Barton"	"Hawai'i Island"	"Ilex anomala"	"native"	8
+"1022"	292	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	30
+"1023"	292	"Knight_Barton"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	15
+"1024"	292	"Knight_Barton"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	1
+"1025"	293	"Knight_Barton"	"Hawai'i Island"	"Ilex anomala"	"native"	14
+"1026"	293	"Knight_Barton"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	36
+"1027"	293	"Knight_Barton"	"Hawai'i Island"	"Myrica faya"	"alien"	2
+"1028"	293	"Knight_Barton"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	3
+"1029"	293	"Knight_Barton"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	2
+"1030"	294	"Knight_Barton"	"Maui Island"	"Antidesma platyphyllum"	"native"	1
+"1031"	294	"Knight_Barton"	"Maui Island"	"Cordyline fruticosa"	"native"	3
+"1032"	294	"Knight_Barton"	"Maui Island"	"Freycinetia arborea"	"native"	1
+"1033"	294	"Knight_Barton"	"Maui Island"	"Kadua affinis"	"native"	1
+"1034"	294	"Knight_Barton"	"Maui Island"	"Metrosideros polymorpha"	"native"	31
+"1035"	294	"Knight_Barton"	"Maui Island"	"Psychotria mariniana"	"native"	3
+"1036"	296	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	4
+"1037"	296	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Melaleuca quinquenervia"	"alien"	3
+"1038"	296	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	49
+"1039"	296	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	14
+"1040"	296	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium guajava"	"alien"	1
+"1041"	296	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Santalum freycinetianum"	"native"	3
+"1042"	296	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Styphelia tameiameiae"	"native"	9
+"1043"	296	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	5
+"1044"	296	"Knight_Barton"	"O'ahu Island (incl. Mokoli'i Islet)"	"Wikstroemia oahuensis"	"native"	3
+"1045"	297	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia confusa"	"alien"	28
+"1046"	297	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Grevillea robusta"	"alien"	2
+"1047"	297	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	8
+"1048"	297	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	1
+"1049"	299	"USFS_FIA_Hawaii"	"Maui Island"	"Acacia confusa"	"alien"	29
+"1050"	299	"USFS_FIA_Hawaii"	"Maui Island"	"Schinus terebinthifolia"	"alien"	2
+"1051"	301	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	3
+"1052"	301	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	10
+"1053"	302	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	115
+"1054"	303	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1055"	303	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	3
+"1056"	303	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Pritchardia beccariana"	"native"	1
+"1057"	305	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	19
+"1058"	305	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"1059"	305	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myoporum sandwicense"	"native"	2
+"1060"	305	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"1061"	306	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	5
+"1062"	306	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	13
+"1063"	306	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Coprosma longifolia"	"native"	1
+"1064"	306	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	27
+"1065"	307	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	18
+"1066"	309	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	3
+"1067"	309	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	9
+"1068"	309	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	2
+"1069"	309	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"1070"	310	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	3
+"1071"	310	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Broussaisia arguta"	"native"	4
+"1072"	310	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	6
+"1073"	310	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	29
+"1074"	310	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"1075"	311	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1076"	311	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"1077"	311	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Coprosma longifolia"	"native"	1
+"1078"	311	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	34
+"1079"	311	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"1080"	312	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	3
+"1081"	312	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"1082"	312	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1083"	312	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	9
+"1084"	313	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	8
+"1085"	313	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	26
+"1086"	315	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	6
+"1087"	316	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	4
+"1088"	316	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"1089"	316	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	3
+"1090"	316	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	2
+"1091"	316	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	14
+"1092"	316	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"1093"	317	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	3
+"1094"	317	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"1095"	317	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1096"	317	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	9
+"1097"	317	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	11
+"1098"	317	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"1099"	318	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	2
+"1100"	318	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Antidesma platyphyllum"	"native"	1
+"1101"	318	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	4
+"1102"	318	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1103"	318	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Kadua axillaris"	"native"	1
+"1104"	318	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"1105"	318	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	1
+"1106"	318	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	3
+"1107"	319	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	1
+"1108"	319	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Bobea sandwicensis"	"native"	2
+"1109"	319	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Dillenia suffruticosa"	"alien"	1
+"1110"	319	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Melaleuca quinquenervia"	"alien"	4
+"1111"	319	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	6
+"1112"	319	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psychotria mariniana"	"native"	4
+"1113"	320	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Aleurites moluccanus"	"alien"	1
+"1114"	320	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Antidesma platyphyllum"	"native"	1
+"1115"	320	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	2
+"1116"	320	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	2
+"1117"	320	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	2
+"1118"	321	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	5
+"1119"	321	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"1120"	321	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1121"	321	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	22
+"1122"	322	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	4
+"1123"	322	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Melicope clusiifolia"	"native"	2
+"1124"	322	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"1125"	322	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine sandwicensis"	"native"	4
+"1126"	322	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"1127"	323	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1128"	323	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"1129"	323	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	20
+"1130"	323	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Toona ciliata"	"alien"	2
+"1131"	323	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Eucalyptus deglupta"	"alien"	9
+"1132"	324	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1133"	324	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"1134"	325	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1135"	325	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Chenopodium oahuense"	"native"	1
+"1136"	325	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"1137"	326	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1138"	326	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	31
+"1139"	326	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myoporum sandwicense"	"native"	1
+"1140"	328	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1141"	328	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Eucalyptus robusta"	"alien"	7
+"1142"	328	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Melicope clusiifolia"	"native"	1
+"1143"	328	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"1144"	329	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	2
+"1145"	329	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"1146"	329	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	3
+"1147"	330	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1148"	330	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Antidesma platyphyllum"	"native"	1
+"1149"	330	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"1150"	330	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1151"	330	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Melicope clusiifolia"	"native"	1
+"1152"	330	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"1153"	330	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	7
+"1154"	330	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"1155"	331	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	2
+"1156"	331	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"1157"	331	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	21
+"1158"	331	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"1159"	332	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	2
+"1160"	332	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"1161"	332	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	43
+"1162"	333	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	4
+"1163"	333	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"1164"	333	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	23
+"1165"	333	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"1166"	334	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1167"	335	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1168"	335	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Antidesma platyphyllum"	"native"	2
+"1169"	335	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"1170"	335	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	13
+"1171"	336	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Acacia koa"	"native"	1
+"1172"	336	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	20
+"1173"	338	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	3
+"1174"	338	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Heliocarpus popayanensis"	"alien"	1
+"1175"	340	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Aleurites moluccanus"	"alien"	3
+"1176"	340	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Hibiscus tilliaceus"	"native"	23
+"1177"	340	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Syzygium cumini"	"alien"	3
+"1178"	342	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Aleurites moluccanus"	"alien"	2
+"1179"	342	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Erythrina sandwicensis"	"native"	1
+"1180"	342	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	12
+"1181"	342	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Toona ciliata"	"alien"	4
+"1182"	343	"USFS_FIA_Hawaii"	"Maui Island"	"Aleurites moluccanus"	"alien"	1
+"1183"	343	"USFS_FIA_Hawaii"	"Maui Island"	"Eucalyptus robusta"	"alien"	11
+"1184"	343	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	1
+"1185"	343	"USFS_FIA_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	12
+"1186"	343	"USFS_FIA_Hawaii"	"Maui Island"	"Psidium guajava"	"alien"	1
+"1187"	344	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Aleurites moluccanus"	"alien"	1
+"1188"	344	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cinnamomum burmanni"	"alien"	2
+"1189"	344	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	2
+"1190"	344	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	9
+"1191"	344	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium guajava"	"alien"	2
+"1192"	344	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	1
+"1193"	345	"USFS_FIA_Hawaii"	"Maui Island"	"Aleurites moluccanus"	"alien"	1
+"1194"	345	"USFS_FIA_Hawaii"	"Maui Island"	"Coprosma rhynchocarpa"	"native"	1
+"1195"	345	"USFS_FIA_Hawaii"	"Maui Island"	"Diospyros sandwicensis"	"native"	1
+"1196"	345	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	21
+"1197"	345	"USFS_FIA_Hawaii"	"Maui Island"	"Nestegis sandwicensis"	"native"	1
+"1198"	345	"USFS_FIA_Hawaii"	"Maui Island"	"Psidium guajava"	"alien"	4
+"1199"	345	"USFS_FIA_Hawaii"	"Maui Island"	"Psychotria hawaiiensis"	"native"	3
+"1200"	345	"USFS_FIA_Hawaii"	"Maui Island"	"Schinus terebinthifolia"	"alien"	3
+"1201"	345	"USFS_FIA_Hawaii"	"Maui Island"	"Xylosma hawaiensis"	"native"	1
+"1202"	346	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Broussaisia arguta"	"native"	2
+"1203"	346	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"1204"	346	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	15
+"1205"	346	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	5
+"1206"	346	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"1207"	346	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria kaduana"	"native"	1
+"1208"	347	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Antidesma platyphyllum"	"native"	2
+"1209"	347	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	26
+"1210"	347	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"1211"	350	"USFS_FIA_Hawaii"	"Maui Island"	"Antidesma platyphyllum"	"native"	1
+"1212"	350	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	7
+"1213"	350	"USFS_FIA_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	18
+"1214"	350	"USFS_FIA_Hawaii"	"Maui Island"	"Spathodea campanulata"	"alien"	1
+"1215"	351	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"1216"	351	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	19
+"1217"	351	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria kaduana"	"native"	2
+"1218"	352	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Antidesma platyphyllum"	"native"	1
+"1219"	352	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"1220"	352	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	2
+"1221"	352	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	15
+"1222"	352	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	27
+"1223"	353	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Archontophoenix alexandrae"	"alien"	1
+"1224"	353	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Falcataria moluccana"	"alien"	3
+"1225"	353	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"1226"	354	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Archontophoenix alexandrae"	"alien"	2
+"1227"	354	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"1228"	355	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Archontophoenix alexandrae"	"alien"	1
+"1229"	355	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	1
+"1230"	355	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Melochia umbellata"	"alien"	4
+"1231"	355	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	12
+"1232"	355	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	3
+"1233"	356	"USFS_FIA_Hawaii"	"Maui Island"	"Ardisia elliptica"	"alien"	13
+"1234"	356	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	1
+"1235"	356	"USFS_FIA_Hawaii"	"Maui Island"	"Psidium guajava"	"alien"	2
+"1236"	356	"USFS_FIA_Hawaii"	"Maui Island"	"Psychotria hawaiiensis"	"native"	1
+"1237"	356	"USFS_FIA_Hawaii"	"Maui Island"	"Spathodea campanulata"	"alien"	1
+"1238"	356	"USFS_FIA_Hawaii"	"Maui Island"	"Syzygium malaccense"	"alien"	19
+"1239"	357	"USFS_FIA_Hawaii"	"Maui Island"	"Ardisia elliptica"	"alien"	3
+"1240"	357	"USFS_FIA_Hawaii"	"Maui Island"	"Psidium guajava"	"alien"	3
+"1241"	357	"USFS_FIA_Hawaii"	"Maui Island"	"Spathodea campanulata"	"alien"	3
+"1242"	357	"USFS_FIA_Hawaii"	"Maui Island"	"Syzygium cumini"	"alien"	20
+"1243"	357	"USFS_FIA_Hawaii"	"Maui Island"	"Rhodomyrtus tomentosa"	"alien"	1
+"1244"	358	"USFS_FIA_Hawaii"	"Maui Island"	"Ardisia elliptica"	"alien"	11
+"1245"	358	"USFS_FIA_Hawaii"	"Maui Island"	"Psidium guajava"	"alien"	1
+"1246"	358	"USFS_FIA_Hawaii"	"Maui Island"	"Syzygium jambos"	"alien"	30
+"1247"	359	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Chrysophyllum oliviforme"	"alien"	1
+"1248"	359	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	2
+"1249"	359	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psychotria kaduana"	"native"	1
+"1250"	359	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schefflera actinophylla"	"alien"	2
+"1251"	359	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	1
+"1252"	359	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Toona ciliata"	"alien"	1
+"1253"	359	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Heliocarpus popayanensis"	"alien"	15
+"1254"	360	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Grevillea robusta"	"alien"	1
+"1255"	360	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"1256"	360	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schizostachyum glaucifolium"	"alien"	12
+"1257"	361	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"1258"	361	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Kadua axillaris"	"native"	1
+"1259"	361	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	28
+"1260"	362	"USFS_FIA_Hawaii"	"Maui Island"	"Broussaisia arguta"	"native"	1
+"1261"	362	"USFS_FIA_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	10
+"1262"	362	"USFS_FIA_Hawaii"	"Maui Island"	"Kadua axillaris"	"native"	4
+"1263"	362	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	12
+"1264"	362	"USFS_FIA_Hawaii"	"Maui Island"	"Psychotria hawaiiensis"	"native"	1
+"1265"	363	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	1
+"1266"	363	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	3
+"1267"	363	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"1268"	366	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	5
+"1269"	366	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	19
+"1270"	367	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Broussaisia arguta"	"native"	1
+"1271"	367	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	20
+"1272"	368	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"1273"	368	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	2
+"1274"	368	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	23
+"1275"	369	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1276"	369	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	26
+"1277"	370	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	13
+"1278"	370	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	2
+"1279"	370	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"1280"	371	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"1281"	371	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	7
+"1282"	371	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	20
+"1283"	372	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"1284"	373	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"1285"	373	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	19
+"1286"	374	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Casuarina equisetifolia"	"alien"	6
+"1287"	374	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Eucalyptus robusta"	"alien"	1
+"1288"	374	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	1
+"1289"	375	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Casuarina equisetifolia"	"alien"	46
+"1290"	376	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Casuarina equisetifolia"	"alien"	19
+"1291"	376	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Eucalyptus robusta"	"alien"	5
+"1292"	376	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	2
+"1293"	376	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	7
+"1294"	376	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Ficus microcarpa"	"alien"	1
+"1295"	377	"USFS_FIA_Hawaii"	"Maui Island"	"Casuarina equisetifolia"	"alien"	1
+"1296"	377	"USFS_FIA_Hawaii"	"Maui Island"	"Schinus terebinthifolia"	"alien"	5
+"1297"	378	"USFS_FIA_Hawaii"	"Maui Island"	"Casuarina glauca"	"alien"	2
+"1298"	378	"USFS_FIA_Hawaii"	"Maui Island"	"Falcataria moluccana"	"alien"	1
+"1299"	378	"USFS_FIA_Hawaii"	"Maui Island"	"Psydrax odorata"	"native"	1
+"1300"	378	"USFS_FIA_Hawaii"	"Maui Island"	"Schinus terebinthifolia"	"alien"	14
+"1301"	378	"USFS_FIA_Hawaii"	"Maui Island"	"Syzygium cumini"	"alien"	2
+"1302"	379	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	26
+"1303"	379	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Pandanus tectorius"	"native"	30
+"1304"	379	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	3
+"1305"	380	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	3
+"1306"	380	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	22
+"1307"	380	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Pandanus tectorius"	"native"	5
+"1308"	380	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"1309"	381	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Albizia saman"	"alien"	1
+"1310"	381	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	3
+"1311"	381	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Melochia umbellata"	"alien"	1
+"1312"	381	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Morinda citrifolia"	"alien"	5
+"1313"	381	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Pandanus tectorius"	"native"	4
+"1314"	381	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cocos nucifera"	"alien"	4
+"1315"	381	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Persea americana"	"alien"	1
+"1316"	382	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	1
+"1317"	382	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Falcataria moluccana"	"alien"	42
+"1318"	383	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	4
+"1319"	383	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Melochia umbellata"	"alien"	9
+"1320"	383	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Trema orientalis"	"alien"	1
+"1321"	384	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	2
+"1322"	384	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Melochia umbellata"	"alien"	2
+"1323"	384	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"1324"	384	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	2
+"1325"	384	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Macaranga mappa"	"alien"	2
+"1326"	385	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	1
+"1327"	385	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"1328"	386	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	1
+"1329"	386	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	9
+"1330"	386	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	10
+"1331"	386	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Toona ciliata"	"alien"	4
+"1332"	387	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cecropia obtusifolia"	"alien"	1
+"1333"	387	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Dillenia suffruticosa"	"alien"	1
+"1334"	387	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"1335"	387	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	3
+"1336"	387	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"1337"	387	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ficus microcarpa"	"alien"	2
+"1338"	389	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"1339"	389	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Eucalyptus robusta"	"alien"	36
+"1340"	390	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	27
+"1341"	391	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	5
+"1342"	391	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	49
+"1343"	392	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"1344"	392	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	13
+"1345"	393	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	4
+"1346"	393	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Melicope clusiifolia"	"native"	1
+"1347"	393	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	31
+"1348"	393	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	2
+"1349"	393	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine sandwicensis"	"native"	1
+"1350"	394	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"1351"	394	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	6
+"1352"	395	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"1353"	395	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	32
+"1354"	396	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	3
+"1355"	396	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	37
+"1356"	397	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1357"	397	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	23
+"1358"	398	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	4
+"1359"	398	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"1360"	399	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"1361"	399	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1362"	399	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	21
+"1363"	399	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"1364"	400	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"1365"	400	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1366"	400	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	38
+"1367"	402	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	8
+"1368"	402	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"1369"	403	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"1370"	403	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	11
+"1371"	403	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	46
+"1372"	403	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrica faya"	"alien"	8
+"1373"	404	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	7
+"1374"	404	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	6
+"1375"	404	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	11
+"1376"	405	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"1377"	405	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	19
+"1378"	406	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"1379"	406	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	43
+"1380"	408	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	32
+"1381"	410	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	2
+"1382"	410	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1383"	410	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Melicope clusiifolia"	"native"	1
+"1384"	410	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"1385"	410	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"1386"	411	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	14
+"1387"	411	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"1388"	412	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cheirodendron trigynum"	"native"	1
+"1389"	412	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Chenopodium oahuense"	"native"	2
+"1390"	412	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	2
+"1391"	412	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	45
+"1392"	413	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	28
+"1393"	413	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"1394"	414	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Eucalyptus robusta"	"alien"	3
+"1395"	414	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"1396"	414	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	32
+"1397"	415	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	30
+"1398"	416	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1399"	416	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"1400"	416	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Perrottetia sandwicensis"	"native"	1
+"1401"	416	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"1402"	417	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Fraxinus uhdei"	"alien"	5
+"1403"	417	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	2
+"1404"	417	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"1405"	418	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	2
+"1406"	418	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	2
+"1407"	418	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	3
+"1408"	418	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"1409"	419	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"1410"	419	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	22
+"1411"	419	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium guajava"	"alien"	3
+"1412"	419	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"1413"	419	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schinus terebinthifolia"	"alien"	2
+"1414"	420	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	33
+"1415"	421	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	4
+"1416"	421	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	10
+"1417"	421	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	10
+"1418"	422	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"1419"	422	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	78
+"1420"	423	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Coprosma ochracea"	"native"	1
+"1421"	423	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	4
+"1422"	423	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	11
+"1423"	423	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Pritchardia munroi"	"native"	1
+"1424"	424	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	50
+"1425"	425	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"1426"	426	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1427"	426	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	11
+"1428"	426	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	4
+"1429"	426	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	1
+"1430"	427	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	5
+"1431"	428	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"1432"	429	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Eucalyptus robusta"	"alien"	4
+"1433"	429	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"1434"	429	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	3
+"1435"	429	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schinus terebinthifolia"	"alien"	1
+"1436"	429	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Swietenia macrophylla"	"alien"	10
+"1437"	429	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Toona ciliata"	"alien"	3
+"1438"	430	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"1439"	430	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	13
+"1440"	431	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	15
+"1441"	432	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1442"	432	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	35
+"1443"	433	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	9
+"1444"	433	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Pritchardia beccariana"	"native"	1
+"1445"	434	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	7
+"1446"	434	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	33
+"1447"	434	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psychotria hawaiiensis"	"native"	3
+"1448"	435	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	23
+"1449"	435	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"1450"	436	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	18
+"1451"	436	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	15
+"1452"	437	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cinnamomum burmanni"	"alien"	24
+"1453"	437	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Citharexylum caudatum"	"alien"	1
+"1454"	437	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Melaleuca quinquenervia"	"alien"	10
+"1455"	437	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	12
+"1456"	437	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	1
+"1457"	438	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cinnamomum verum"	"alien"	12
+"1458"	438	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Falcataria moluccana"	"alien"	2
+"1459"	438	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	3
+"1460"	438	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	1
+"1461"	438	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	39
+"1462"	439	"USFS_FIA_Hawaii"	"Maui Island"	"Citharexylum caudatum"	"alien"	1
+"1463"	439	"USFS_FIA_Hawaii"	"Maui Island"	"Pandanus tectorius"	"native"	1
+"1464"	439	"USFS_FIA_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	6
+"1465"	439	"USFS_FIA_Hawaii"	"Maui Island"	"Schinus terebinthifolia"	"alien"	6
+"1466"	440	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Clusia rosea"	"alien"	1
+"1467"	440	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	18
+"1468"	440	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Spathodea campanulata"	"alien"	10
+"1469"	441	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Cocos nucifera"	"alien"	5
+"1470"	441	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Mangifera indica"	"alien"	2
+"1471"	442	"USFS_FIA_Hawaii"	"Lana'i Island"	"Cryptomeria spp."	"alien"	5
+"1472"	442	"USFS_FIA_Hawaii"	"Lana'i Island"	"Psidium cattleianum"	"alien"	4
+"1473"	443	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Dillenia suffruticosa"	"alien"	4
+"1474"	450	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Eucalyptus saligna"	"alien"	1
+"1475"	450	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Pinus patula"	"alien"	23
+"1476"	451	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Falcataria moluccana"	"alien"	6
+"1477"	451	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"1478"	452	"USFS_FIA_Hawaii"	"Maui Island"	"Fraxinus uhdei"	"alien"	5
+"1479"	452	"USFS_FIA_Hawaii"	"Maui Island"	"Myrica faya"	"alien"	5
+"1480"	453	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex paraguariensis"	"alien"	1
+"1481"	453	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Grevillea robusta"	"alien"	8
+"1482"	455	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Grevillea robusta"	"alien"	10
+"1483"	455	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium guajava"	"alien"	5
+"1484"	456	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Grevillea robusta"	"alien"	1
+"1485"	456	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	1
+"1486"	456	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schefflera actinophylla"	"alien"	1
+"1487"	457	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Grevillea robusta"	"alien"	12
+"1488"	457	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	41
+"1489"	458	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Melicope kaalaensis"	"native"	15
+"1490"	458	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Grevillea robusta"	"alien"	2
+"1491"	458	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	13
+"1492"	458	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium guajava"	"alien"	3
+"1493"	459	"USFS_FIA_Hawaii"	"Maui Island"	"Grevillea robusta"	"alien"	2
+"1494"	461	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Hibiscus tilliaceus"	"native"	13
+"1495"	461	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	1
+"1496"	461	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	6
+"1497"	461	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Trema orientalis"	"alien"	1
+"1498"	463	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Ilex anomala"	"native"	1
+"1499"	463	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	27
+"1500"	464	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Prosopis pallida"	"alien"	3
+"1501"	464	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	15
+"1502"	467	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Leucaena leucocephala"	"alien"	18
+"1503"	468	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	1
+"1504"	468	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	2
+"1505"	468	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	13
+"1506"	469	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	17
+"1507"	470	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"1508"	470	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	3
+"1509"	471	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	13
+"1510"	471	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	6
+"1511"	471	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schefflera actinophylla"	"alien"	1
+"1512"	471	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Syzygium jambos"	"alien"	17
+"1513"	472	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	12
+"1514"	473	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	36
+"1515"	474	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	20
+"1516"	475	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"1517"	476	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	6
+"1518"	477	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	15
+"1519"	477	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Pandanus tectorius"	"native"	21
+"1520"	477	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	14
+"1521"	478	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	25
+"1522"	481	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"1523"	482	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	31
+"1524"	483	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	8
+"1525"	483	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myoporum sandwicense"	"native"	6
+"1526"	483	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	1
+"1527"	484	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	12
+"1528"	484	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"1529"	485	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"1530"	485	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrica faya"	"alien"	1
+"1531"	486	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"1532"	487	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	35
+"1533"	487	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	4
+"1534"	488	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	14
+"1535"	488	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	2
+"1536"	488	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schinus terebinthifolia"	"alien"	8
+"1537"	489	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	22
+"1538"	490	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	67
+"1539"	491	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	19
+"1540"	492	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"1541"	493	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	9
+"1542"	494	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	8
+"1543"	495	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"1544"	496	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	41
+"1545"	496	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	3
+"1546"	496	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium guajava"	"alien"	1
+"1547"	497	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	2
+"1548"	498	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	3
+"1549"	499	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	25
+"1550"	500	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	21
+"1551"	501	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	18
+"1552"	501	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myrsine lessertiana"	"native"	2
+"1553"	503	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	16
+"1554"	503	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schinus terebinthifolia"	"alien"	10
+"1555"	504	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"1556"	505	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	32
+"1557"	506	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	4
+"1558"	507	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	10
+"1559"	507	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	1
+"1560"	508	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	8
+"1561"	509	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	3
+"1562"	510	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Metrosideros polymorpha"	"native"	1
+"1563"	510	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium cattleianum"	"alien"	19
+"1564"	512	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myoporum sandwicense"	"native"	3
+"1565"	513	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myoporum sandwicense"	"native"	2
+"1566"	513	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Sophora chrysophylla"	"native"	2
+"1567"	514	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Myoporum sandwicense"	"native"	5
+"1568"	514	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Sophora chrysophylla"	"native"	2
+"1569"	515	"USFS_FIA_Hawaii"	"Maui Island"	"Persea americana"	"alien"	2
+"1570"	515	"USFS_FIA_Hawaii"	"Maui Island"	"Trema orientalis"	"alien"	3
+"1571"	516	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Pithecellobium dulce"	"alien"	13
+"1572"	517	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Albizia saman"	"alien"	2
+"1573"	517	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Pithecellobium dulce"	"alien"	6
+"1574"	518	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Prosopis pallida"	"alien"	1
+"1575"	520	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Prosopis pallida"	"alien"	1
+"1576"	522	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleianum"	"alien"	8
+"1577"	522	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium guajava"	"alien"	2
+"1578"	522	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	1
+"1579"	524	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	12
+"1580"	525	"USFS_FIA_Hawaii"	"Lana'i Island"	"Schinus terebinthifolia"	"alien"	26
+"1581"	526	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psidium guajava"	"alien"	6
+"1582"	526	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schinus terebinthifolia"	"alien"	11
+"1583"	527	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schinus terebinthifolia"	"alien"	7
+"1584"	528	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Psydrax odorata"	"native"	4
+"1585"	528	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schinus terebinthifolia"	"alien"	19
+"1586"	529	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Albizia saman"	"alien"	3
+"1587"	530	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schinus terebinthifolia"	"alien"	34
+"1588"	531	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schinus terebinthifolia"	"alien"	3
+"1589"	532	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Schinus terebinthifolia"	"alien"	2
+"1590"	534	"USFS_FIA_Hawaii"	"Hawai'i Island"	"Sophora chrysophylla"	"native"	2
+"1591"	542	"Chase_Knight"	"Hawai'i Island"	"Erythrina sandwicensis"	"native"	3
+"1592"	542	"Chase_Knight"	"Hawai'i Island"	"Prosopis pallida"	"alien"	2
+"1593"	543	"Chase_Knight"	"Hawai'i Island"	"Erythrina sandwicensis"	"native"	6
+"1594"	543	"Chase_Knight"	"Hawai'i Island"	"Prosopis pallida"	"alien"	3
+"1595"	544	"Chase_Knight"	"Hawai'i Island"	"Erythrina sandwicensis"	"native"	2
+"1596"	544	"Chase_Knight"	"Hawai'i Island"	"Mezoneuron kavaiense"	"native"	1
+"1597"	545	"Chase_Knight"	"Hawai'i Island"	"Erythrina sandwicensis"	"native"	1
+"1598"	545	"Chase_Knight"	"Hawai'i Island"	"Mezoneuron kavaiense"	"native"	1
+"1599"	545	"Chase_Knight"	"Hawai'i Island"	"Prosopis pallida"	"alien"	1
+"1600"	546	"Chase_Knight"	"Hawai'i Island"	"Erythrina sandwicensis"	"native"	2
+"1601"	546	"Chase_Knight"	"Hawai'i Island"	"Prosopis pallida"	"alien"	1
+"1602"	547	"Chase_Knight"	"Hawai'i Island"	"Erythrina sandwicensis"	"native"	2
+"1603"	547	"Chase_Knight"	"Hawai'i Island"	"Prosopis pallida"	"alien"	1
+"1604"	548	"Chase_Knight"	"Hawai'i Island"	"Leucaena leucocephala"	"alien"	58
+"1605"	548	"Chase_Knight"	"Hawai'i Island"	"Prosopis pallida"	"alien"	2
+"1606"	548	"Chase_Knight"	"Hawai'i Island"	"Schinus molle"	"alien"	1
+"1607"	549	"Chase_Knight"	"Hawai'i Island"	"Erythrina sandwicensis"	"native"	6
+"1608"	549	"Chase_Knight"	"Hawai'i Island"	"Prosopis pallida"	"alien"	4
+"1609"	550	"Chase_Knight"	"Hawai'i Island"	"Prosopis pallida"	"alien"	9
+"1610"	551	"Chase_Knight"	"Hawai'i Island"	"Prosopis pallida"	"alien"	4
+"1611"	552	"Chase_Knight"	"Hawai'i Island"	"Prosopis pallida"	"alien"	5
+"1612"	557	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Erythrina sandwicensis"	"native"	2
+"1613"	557	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	14
+"1614"	557	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	1
+"1615"	558	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cordyline fruticosa"	"native"	3
+"1616"	558	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Erythrina sandwicensis"	"native"	1
+"1617"	558	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	3
+"1618"	558	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Sapindus oahuensis"	"native"	27
+"1619"	559	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Erythrina sandwicensis"	"native"	1
+"1620"	559	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	26
+"1621"	560	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	2
+"1622"	560	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Bobea elatior"	"native"	1
+"1623"	560	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cordyline fruticosa"	"native"	3
+"1624"	560	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Eucalyptus globulus"	"alien"	3
+"1625"	560	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Ficus microcarpa"	"alien"	1
+"1626"	560	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	5
+"1627"	560	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleyanum"	"alien"	1
+"1628"	560	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Spathodea campanulata"	"alien"	2
+"1629"	561	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	2
+"1630"	561	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leptecophylla tameiameiae"	"native"	1
+"1631"	561	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	9
+"1632"	561	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleyanum"	"alien"	2
+"1633"	561	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psydrax odorata"	"native"	7
+"1634"	561	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Scaevola gaudichaudiana"	"native"	1
+"1635"	561	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Wikstroemia oahuensis"	"native"	1
+"1636"	562	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	3
+"1637"	562	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cordyline fruticosa"	"native"	1
+"1638"	562	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Ficus microcarpa"	"alien"	1
+"1639"	562	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Freycinetia arborea"	"native"	1
+"1640"	562	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Heptapleurum actinophyllum"	"alien"	1
+"1641"	562	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	7
+"1642"	562	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleyanum"	"alien"	7
+"1643"	562	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psydrax odorata"	"native"	3
+"1644"	563	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	1
+"1645"	563	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Clermontia kakeana"	"native"	1
+"1646"	563	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cordyline fruticosa"	"native"	6
+"1647"	563	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Hibiscus arnottianus"	"native"	1
+"1648"	563	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	9
+"1649"	563	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros tremuloides"	"native"	1
+"1650"	566	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	1
+"1651"	566	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Cordyline fruticosa"	"native"	1
+"1652"	566	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Heptapleurum actinophyllum"	"alien"	3
+"1653"	566	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Hibiscus arnottianus"	"native"	1
+"1654"	566	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	1
+"1655"	566	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros tremuloides"	"native"	14
+"1656"	569	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Araucaria heterophylla"	"alien"	1
+"1657"	569	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Diospyros sandwicensis"	"native"	36
+"1658"	569	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Heptapleurum actinophyllum"	"alien"	10
+"1659"	569	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	8
+"1660"	569	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleyanum"	"alien"	4
+"1661"	569	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Schinus terebinthifolia"	"alien"	6
+"1662"	365	"PACN_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	2
+"1663"	300	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia confusa"	"alien"	1
+"1664"	300	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	2
+"1665"	300	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Bobea sandwicensis"	"native"	1
+"1666"	300	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	4
+"1667"	300	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	3
+"1668"	300	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium sandwicense"	"native"	1
+"1669"	300	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	7
+"1670"	300	"USFS_FIA_Hawaii"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	4
+"1671"	348	"USFS_FIA_Hawaii"	"Maui Island"	"Antidesma platyphyllum"	"native"	3
+"1672"	348	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	10
+"1673"	348	"USFS_FIA_Hawaii"	"Maui Island"	"Psidium cattleianum"	"alien"	4
+"1674"	349	"USFS_FIA_Hawaii"	"Maui Island"	"Kadua axillaris"	"native"	1
+"1675"	349	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	6
+"1676"	349	"USFS_FIA_Hawaii"	"Maui Island"	"Psidium guajava"	"alien"	2
+"1677"	349	"USFS_FIA_Hawaii"	"Maui Island"	"Spathodea campanulata"	"alien"	5
+"1678"	348	"USFS_FIA_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	1
+"1679"	348	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	4
+"1680"	365	"USFS_FIA_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	3
+"1681"	365	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	15
+"1682"	365	"USFS_FIA_Hawaii"	"Maui Island"	"Myrsine lessertiana"	"native"	2
+"1683"	349	"USFS_FIA_Hawaii"	"Maui Island"	"Cheirodendron forbesii"	"native"	1
+"1684"	349	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	2
+"1685"	348	"USFS_FIA_Hawaii"	"Maui Island"	"Cheirodendron trigynum"	"native"	1
+"1686"	348	"USFS_FIA_Hawaii"	"Maui Island"	"Metrosideros polymorpha"	"native"	10
+"1687"	553	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Erythrina sandwicensis"	"native"	1
+"1688"	553	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	4
+"1689"	553	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psydrax odorata"	"native"	6
+"1690"	554	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Erythrina sandwicensis"	"native"	4
+"1691"	554	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	5
+"1692"	554	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psydrax odorata"	"native"	6
+"1693"	554	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	1
+"1694"	554	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Erythrina sandwicensis"	"native"	4
+"1695"	554	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	2
+"1696"	554	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Myoporum sandwicense"	"native"	1
+"1697"	554	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Sapindus oahuensis"	"native"	2
+"1698"	553	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Erythrina sandwicensis"	"native"	1
+"1699"	553	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Leucaena leucocephala"	"alien"	4
+"1700"	553	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psydrax odorata"	"native"	1
+"1701"	553	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Sapindus oahuensis"	"native"	7
+"1702"	553	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium cumini"	"alien"	2
+"1703"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	2
+"1704"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Grevillea robusta"	"alien"	1
+"1705"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Heptapleurum actinophyllum"	"alien"	2
+"1706"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Hibiscus arnottianus"	"native"	4
+"1707"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Planchonella sandwicensis"	"native"	2
+"1708"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleyanum"	"alien"	2
+"1709"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	1
+"1710"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	2
+"1711"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros tremuloides"	"native"	2
+"1712"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Persea americana"	"alien"	1
+"1713"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleyanum"	"alien"	1
+"1714"	564	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psychotria mariniana"	"native"	3
+"1715"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	2
+"1716"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Citharexylum caudatum"	"alien"	3
+"1717"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Heptapleurum actinophyllum"	"alien"	1
+"1718"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	4
+"1719"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros tremuloides"	"native"	2
+"1720"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psidium cattleyanum"	"alien"	2
+"1721"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Psychotria mariniana"	"native"	1
+"1722"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Acacia koa"	"native"	2
+"1723"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Charpentiera ovata"	"native"	1
+"1724"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros polymorpha"	"native"	2
+"1725"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Metrosideros tremuloides"	"native"	1
+"1726"	567	"Chase_Knight"	"O'ahu Island (incl. Mokoli'i Islet)"	"Syzygium sandwicense"	"native"	2
