@@ -17,4 +17,4 @@ Instructors: Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Emma Ladouceur (emma
   - Additional estimations of functional diversity: trait-value-based approach
   - Multidimensional trait space and species trait combinations
   - Plant strategies according to their traits
-  - Exercise: Functional richness, evenness, dispersion (Cornwell et al 2006 approach and Blonder et al approach)
+  - Exercise: Functional richness, evenness, dispersion (Blonder et al approach)
