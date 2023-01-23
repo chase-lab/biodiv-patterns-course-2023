@@ -18,5 +18,5 @@ Instructors: Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Emma Ladouceur (emma
   - Multidimensional trait space and species trait combinations
   - Plant strategies according to their traits
   - Exercise: Functional richness, evenness, dispersion (Blonder et al approach)
-  - 
+  
 ## Download class material [here](https://drive.google.com/drive/folders/1p4rjmcypsl7AdHmkQq8KoyXAzt8ur4xD?usp=share_link)
