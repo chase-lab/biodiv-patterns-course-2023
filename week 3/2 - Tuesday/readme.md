@@ -4,7 +4,7 @@
 Instructors: Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Emma Ladouceur (emma.ladouceur@idiv.de)
 
 
-## Part I: Introduction to Functional Diversity and Functional Ecology (10:15 – 12)
+## Part I: Introduction to Functional Diversity and Functional Ecology (10:15 – 12:30)
   
   - Facets of biodiversity, how do they complement taxonomic diversity?
   - Functional ecology and functional diversity (terminology clarification)
