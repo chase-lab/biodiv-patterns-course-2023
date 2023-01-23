@@ -7,6 +7,7 @@ Instructors: Dr. Daniela Hoss (danielahoss@gmail.com); Dr. Emma Ladouceur (emma.
 ## Morning: Introduction to Ecosystem Functioning 10:00- 11:00
   
   - Lecture and discussion on Ecosystem Functioning 
+  - How can we measure Ecosystem Functioning (Jam Board)[https://jamboard.google.com/d/1PpvcS6VPHxlNTq1m-Ig7UkJlu4yiy1qpci7Qr8uZwWk/edit?usp=sharing]
   - Link will be provided to download slides
  
 ## Morning : Form discussion and debate groups 11:00-11:30
@@ -20,6 +21,7 @@ Before class please read two papers- and make some notes;
 - Each member of the team should be prepared to make some points in the debate
 - An instructor will also join each group
 - Debate Jam board [Team Wardle](https://jamboard.google.com/d/1P3S543zZFAQVTkKGHJmiArjID7aXUIRQ60eOX48KR5Q/edit?usp=sharing) and [Team Eisenhauer](https://jamboard.google.com/d/1hxQuSqPfyJffyfpGlv8mm2sB_w3IPxmpqZI4_AzCoBU/edit?usp=sharing)
+- You can jot down your idea on the above jam boards
 
 ## Morning: Introduction to Ecosystem Functioning Experiments 11:30-12:00
 
