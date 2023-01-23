@@ -4,7 +4,7 @@
 Instructors: Dr. Daniela Hoss (danielahoss@gmail.com); Dr. Emma Ladouceur (emma.ladouceur@idiv.de)
 
 
-## Morning: Introduction to Ecosystem Functioning 10:00- 11:00
+## Morning: Introduction to Ecosystem Functioning 10:15- 11:00
   
   - Lecture and discussion on Ecosystem Functioning 
   - How can we measure Ecosystem Functioning [Jam Board](https://jamboard.google.com/d/1PpvcS6VPHxlNTq1m-Ig7UkJlu4yiy1qpci7Qr8uZwWk/edit?usp=sharing)
