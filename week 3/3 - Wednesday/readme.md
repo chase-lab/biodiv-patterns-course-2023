@@ -43,7 +43,7 @@ Before class please read two papers- and make some notes;
  
  
  Projects:
- - [Functional Diversity](https://bdj.pensoft.net/articles.php?id=28406)
+ - [Functional Diversity](https://docs.google.com/document/d/17oIqHB-huyg_a4wHxr5voSeAzf5TulLXkC1X8xbcm0g/edit#)
  - [Removal Experiments](https://doi.org/10.1002/glr2.12009)
  - [Seed Addition](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13566)
  - [Nutrient Addition](https://onlinelibrary.wiley.com/doi/10.1111/ele.14126)
