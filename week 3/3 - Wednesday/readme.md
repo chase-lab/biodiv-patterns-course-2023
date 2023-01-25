@@ -40,3 +40,10 @@ Before class please read two papers- and make some notes;
 ## Afternoon: Projects 15-16:00
  - Instructors will present three options for student projects at the end of the day
  - Question and discussion period
+ 
+ 
+ Projects:
+ - [Functional Diversity](https://bdj.pensoft.net/articles.php?id=28406)
+ - [Removal Experiments](https://doi.org/10.1002/glr2.12009)
+ - [Seed Addition](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13566)
+ - [Nutrient Addition](https://onlinelibrary.wiley.com/doi/10.1111/ele.14126)
