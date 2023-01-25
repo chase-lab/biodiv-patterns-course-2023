@@ -9,7 +9,7 @@ Instructors: Dr. Daniela Hoss (danielahoss@gmail.com); Dr. Emma Ladouceur (emma.
   - Lecture and discussion on Ecosystem Functioning 
   - How can we measure Ecosystem Functioning [Jam Board](https://jamboard.google.com/d/1PpvcS6VPHxlNTq1m-Ig7UkJlu4yiy1qpci7Qr8uZwWk/edit?usp=sharing)
   - Share your ideas on the board or by chatting
-  - Link will be provided to download slides
+  - Download slides [Here](https://www.dropbox.com/s/betplt1v9n542q1/Ecosystem_Functioning_2023.pdf?dl=0)
  
 ## Morning : Form discussion and debate groups 11:00-11:30
 Before class please read two papers- and make some notes;
